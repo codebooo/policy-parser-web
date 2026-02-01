@@ -43,7 +43,7 @@ export function calculateScore(analysis: Partial<AnalysisResult>): number {
     }
 
     // 4. Vague Language (Heuristic based on findings)
-    const findings = analysis.key_findings?.join(' ') || '';
+    const findings = analysis.key_findings?.map(f => f.text).join(' ') || '';
     const findingsLower = findings.toLowerCase();
     if (findingsLower.includes('vague') || findingsLower.includes('unclear')) {
         score -= 8;

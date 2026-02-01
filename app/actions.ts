@@ -7,7 +7,7 @@ import { Jarvis, discoverWithJarvis } from './lib/jarvis';
 import { extractPolicyContent } from './lib/extractor';
 import { SYSTEM_PROMPT, USER_PROMPT } from './lib/analyzer/prompt';
 import { calculateScore } from './lib/analyzer/scorer';
-import { AnalysisResultSchema } from './lib/types/analysis';
+import { AnalysisResultSchema, AnalysisResult } from './lib/types/analysis';
 import { generateObject } from 'ai';
 import { getGeminiModel, withKeyRotation, isQuotaError, markKeyExhausted, getLastUsedKeyIndex, getKeyPoolStatus } from './lib/ai/gemini';
 import { createClient } from '@/utils/supabase/server';
@@ -31,17 +31,17 @@ async function generateWithRetry<T>(options: {
 }): Promise<{ object: T }> {
     const status = getKeyPoolStatus();
     logger.info(`[AI] Starting generation with ${status.available}/${status.total} keys available`);
-    
+
     let lastError: Error | null = null;
-    
+
     // Try each available key
     for (let attempt = 0; attempt < status.total; attempt++) {
         try {
             const model = getGeminiModel();
             const keyIndex = getLastUsedKeyIndex();
-            
+
             logger.info(`[AI] Attempt ${attempt + 1}/${status.total} using key ${keyIndex + 1}`);
-            
+
             const result = await generateObject({
                 model,
                 system: options.system,
@@ -49,34 +49,34 @@ async function generateWithRetry<T>(options: {
                 schema: options.schema,
                 mode: options.mode || 'json'
             });
-            
+
             logger.info(`[AI] Success with key ${keyIndex + 1}`);
             return result as { object: T };
-            
+
         } catch (error: any) {
             lastError = error;
             const keyIndex = getLastUsedKeyIndex();
-            
+
             // Check if this is a quota/rate limit error
             if (isQuotaError(error)) {
                 markKeyExhausted(keyIndex);
                 const remaining = getKeyPoolStatus();
                 logger.warn(`[AI] Quota exceeded on key ${keyIndex + 1}. ${remaining.available} keys remaining. Error: ${error.message}`);
-                
+
                 if (remaining.available === 0) {
                     throw new Error(`All ${status.total} API keys have hit their quota limits. Please try again in 15 minutes.`);
                 }
-                
+
                 // Continue to next key
                 continue;
             }
-            
+
             // Non-quota error - don't retry
             logger.error(`[AI] Non-quota error: ${error.message}`);
             throw error;
         }
     }
-    
+
     // All attempts failed
     throw lastError || new Error('Analysis failed after trying all available API keys');
 }
@@ -143,7 +143,7 @@ export async function analyzePolicy(text: string, url: string, userId?: string):
     summary: string;
     risks?: any[];
 }> {
-    const { object: analysis } = await generateWithRetry({
+    const { object: analysis } = await generateWithRetry<AnalysisResult>({
         system: SYSTEM_PROMPT,
         prompt: USER_PROMPT(text),
         schema: AnalysisResultSchema,
@@ -222,7 +222,7 @@ export async function analyzeDomain(input: string) {
             // Step 5: Analysis (using Gemini with key rotation)
             stream.update({ status: 'analyzing', message: 'Analyzing legal text (this may take a moment)...', step: 5, data: null });
 
-            const { object: analysis } = await generateWithRetry({
+            const { object: analysis } = await generateWithRetry<AnalysisResult>({
                 system: SYSTEM_PROMPT,
                 prompt: USER_PROMPT(extracted.markdown),
                 schema: AnalysisResultSchema,
@@ -342,7 +342,7 @@ export async function analyzeDomainInternal(input: string): Promise<{
         logger.info('Internal analysis: Content extracted', { length: extracted.rawLength });
 
         // Step 4: Analysis
-        const { object: analysis } = await generateWithRetry({
+        const { object: analysis } = await generateWithRetry<AnalysisResult>({
             system: SYSTEM_PROMPT,
             prompt: USER_PROMPT(extracted.markdown),
             schema: AnalysisResultSchema,
@@ -390,7 +390,7 @@ export async function analyzeText(text: string, sourceName?: string) {
             // Step 1: Analyzing
             stream.update({ status: 'analyzing', message: 'Analyzing legal text (this may take a moment)...', step: 1, data: null });
 
-            const { object: analysis } = await generateWithRetry({
+            const { object: analysis } = await generateWithRetry<AnalysisResult>({
                 system: SYSTEM_PROMPT,
                 prompt: USER_PROMPT(text),
                 schema: AnalysisResultSchema,
@@ -597,7 +597,7 @@ export async function analyzeSpecificPolicy(url: string, policyType: string, dom
 
             let analysis;
             try {
-                const result = await generateWithRetry({
+                const result = await generateWithRetry<AnalysisResult>({
                     system: SYSTEM_PROMPT,
                     prompt: USER_PROMPT(extracted.markdown),
                     schema: AnalysisResultSchema,
