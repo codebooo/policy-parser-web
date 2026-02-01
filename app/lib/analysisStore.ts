@@ -38,6 +38,7 @@ async function ensureDataDir(): Promise<void> {
  * Read all analysis logs from file
  */
 async function readLogs(): Promise<AnalysisLogEntry[]> {
+    if (process.env.VERCEL) return []; // No logs on Vercel
     await ensureDataDir();
     try {
         const content = await fs.readFile(ANALYSES_FILE, 'utf-8');
@@ -52,6 +53,7 @@ async function readLogs(): Promise<AnalysisLogEntry[]> {
  * Write logs to file
  */
 async function writeLogs(logs: AnalysisLogEntry[]): Promise<void> {
+    if (process.env.VERCEL) return; // No-op on Vercel (Read-only FS)
     await ensureDataDir();
     await fs.writeFile(ANALYSES_FILE, JSON.stringify(logs, null, 2), 'utf-8');
 }

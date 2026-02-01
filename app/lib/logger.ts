@@ -27,12 +27,12 @@ function getLogFileName(): string {
 
 // Append log entry to file
 function appendToLogFile(entry: any) {
-    if (!DEEP_LOG_ENABLED) return;
-    
+    if (!DEEP_LOG_ENABLED || process.env.VERCEL) return;
+
     try {
         ensureLogDir();
         const logFile = path.join(DEEP_LOGS_DIR, getLogFileName());
-        
+
         // Read existing logs or create new array
         let logs: any[] = [];
         if (fs.existsSync(logFile)) {
@@ -43,15 +43,15 @@ function appendToLogFile(entry: any) {
                 logs = [];
             }
         }
-        
+
         // Append new entry
         logs.push(entry);
-        
+
         // Write back (limit to last 1000 entries per day to prevent huge files)
         if (logs.length > 1000) {
             logs = logs.slice(-1000);
         }
-        
+
         fs.writeFileSync(logFile, JSON.stringify(logs, null, 2));
     } catch (e) {
         // Silent fail for logging - don't break the app
@@ -68,13 +68,13 @@ class Logger {
             message,
             data: data ? (data instanceof Error ? { message: data.message, stack: data.stack } : data) : undefined
         };
-        
+
         // Print to stdout for Vercel logs
         console.log(JSON.stringify(entry));
-        
+
         // Store in memory
         this.logs.push(entry);
-        
+
         // Save to file if deep logging is enabled
         appendToLogFile(entry);
     }
