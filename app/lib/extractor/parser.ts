@@ -1,5 +1,4 @@
-import { JSDOM } from 'jsdom';
-import { Readability } from '@mozilla/readability';
+import * as cheerio from 'cheerio';
 
 export interface ParsedContent {
     title: string;
@@ -11,24 +10,21 @@ export interface ParsedContent {
 
 /**
  * Extract text directly from HTML by removing scripts/styles and getting body text.
- * This is a fallback for pages that Readability can't parse (like Facebook's React apps).
+ * Uses cheerio instead of jsdom for Vercel compatibility.
  */
 function extractTextDirectly(html: string, url: string): ParsedContent {
-    const dom = new JSDOM(html, { url });
-    const doc = dom.window.document;
+    const $ = cheerio.load(html);
 
     // Get title
-    const titleEl = doc.querySelector('title');
-    const title = titleEl?.textContent ||
-        doc.querySelector('meta[property="og:title"]')?.getAttribute('content') ||
+    const title = $('title').text() ||
+        $('meta[property="og:title"]').attr('content') ||
         'Privacy Policy';
 
     // Remove script, style, noscript, and meta elements
-    const elementsToRemove = doc.querySelectorAll('script, style, noscript, meta, link, svg, iframe');
-    elementsToRemove.forEach(el => el.remove());
+    $('script, style, noscript, meta, link, svg, iframe').remove();
 
     // Get the cleaned text content
-    let textContent = doc.body.textContent || '';
+    let textContent = $('body').text() || '';
 
     // Clean up whitespace
     textContent = textContent
@@ -69,24 +65,85 @@ function extractTextDirectly(html: string, url: string): ParsedContent {
     };
 }
 
-export function parseContent(html: string, url: string): ParsedContent {
-    // First try Readability
-    try {
-        const doc = new JSDOM(html, { url });
-        const reader = new Readability(doc.window.document);
-        const article = reader.parse();
+/**
+ * Enhanced content extraction using cheerio.
+ * Attempts to extract the main readable content from the page.
+ */
+function extractReadableContent(html: string, url: string): ParsedContent | null {
+    const $ = cheerio.load(html);
 
-        if (article && article.textContent && article.textContent.length > 200) {
-            return {
-                title: article.title || 'Untitled',
-                content: article.content || '',
-                textContent: article.textContent || '',
-                byline: article.byline || '',
-                length: article.length || 0
-            };
+    // Get title
+    const title = $('title').text() ||
+        $('meta[property="og:title"]').attr('content') ||
+        $('h1').first().text() ||
+        'Privacy Policy';
+
+    // Remove non-content elements
+    $('script, style, noscript, meta, link, svg, iframe, nav, header, footer, aside, .nav, .header, .footer, .sidebar, .menu, .advertisement, .ad, .social-share').remove();
+
+    // Try to find the main content area
+    const contentSelectors = [
+        'main',
+        'article',
+        '[role="main"]',
+        '.content',
+        '.main-content',
+        '#content',
+        '#main',
+        '.post-content',
+        '.entry-content',
+        '.article-content',
+        '.policy-content',
+        '.privacy-policy',
+    ];
+
+    let contentHtml = '';
+    let textContent = '';
+
+    for (const selector of contentSelectors) {
+        const el = $(selector).first();
+        if (el.length && el.text().trim().length > 200) {
+            contentHtml = el.html() || '';
+            textContent = el.text().trim();
+            break;
+        }
+    }
+
+    // Fallback to body if no content area found
+    if (!textContent || textContent.length < 200) {
+        contentHtml = $('body').html() || '';
+        textContent = $('body').text().trim();
+    }
+
+    // Clean up whitespace
+    textContent = textContent
+        .replace(/\s+/g, ' ')
+        .replace(/\n\s*\n/g, '\n')
+        .trim();
+
+    if (textContent.length > 200) {
+        return {
+            title,
+            content: contentHtml,
+            textContent,
+            byline: $('meta[name="author"]').attr('content') || '',
+            length: textContent.length
+        };
+    }
+
+    return null;
+}
+
+export function parseContent(html: string, url: string): ParsedContent {
+    // First try enhanced readable content extraction
+    try {
+        const readable = extractReadableContent(html, url);
+
+        if (readable && readable.textContent && readable.textContent.length > 200) {
+            return readable;
         }
     } catch (e) {
-        // Readability failed, will use fallback
+        // Readable extraction failed, will use fallback
     }
 
     // Fallback: extract text directly (works for React apps like Facebook)

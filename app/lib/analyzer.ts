@@ -1,5 +1,4 @@
-import { Readability } from '@mozilla/readability';
-import { JSDOM } from 'jsdom';
+import * as cheerio from 'cheerio';
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY!);
@@ -17,13 +16,35 @@ export class AdvancedAnalyzer {
 
     /**
      * Step 8: Noise Filtration Engine
-     * Uses Mozilla Readability to strip clutter.
+     * Uses cheerio to strip clutter (Vercel-compatible replacement for jsdom+Readability).
      */
     public cleanText(html: string, url: string): string {
-        const doc = new JSDOM(html, { url });
-        const reader = new Readability(doc.window.document);
-        const article = reader.parse();
-        return article ? (article.textContent || "") : "";
+        const $ = cheerio.load(html);
+        
+        // Remove non-content elements
+        $('script, style, noscript, meta, link, svg, iframe, nav, header, footer, aside, .nav, .header, .footer, .sidebar, .menu, .advertisement, .ad, .social-share').remove();
+        
+        // Try to find main content area
+        const contentSelectors = ['main', 'article', '[role="main"]', '.content', '#content', '.main-content'];
+        let textContent = '';
+        
+        for (const selector of contentSelectors) {
+            const el = $(selector).first();
+            if (el.length && el.text().trim().length > 200) {
+                textContent = el.text().trim();
+                break;
+            }
+        }
+        
+        // Fallback to body
+        if (!textContent || textContent.length < 200) {
+            textContent = $('body').text().trim();
+        }
+        
+        // Clean up whitespace
+        textContent = textContent.replace(/\s+/g, ' ').replace(/\n\s*\n/g, '\n').trim();
+        
+        return textContent;
     }
 
     /**

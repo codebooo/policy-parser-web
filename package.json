@@ -13,7 +13,6 @@
     "@ai-sdk/openai": "^2.0.74",
     "@ai-sdk/rsc": "^1.0.105",
     "@google/generative-ai": "^0.24.1",
-    "@mozilla/readability": "^0.6.0",
     "@radix-ui/react-label": "^2.1.8",
     "@react-three/drei": "^10.7.7",
     "@react-three/fiber": "^9.4.0",
@@ -29,7 +28,6 @@
     "dotenv": "^17.2.3",
     "framer-motion": "^12.23.25",
     "got": "^14.6.5",
-    "jsdom": "^27.2.0",
     "lucide-react": "^0.554.0",
     "next": "16.0.7",
     "pdf-parse": "^2.4.5",
@@ -49,7 +47,6 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
-    "@types/jsdom": "^27.0.0",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
