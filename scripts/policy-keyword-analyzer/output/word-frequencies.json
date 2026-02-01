@@ -1,0 +1,7508 @@
+{
+  "totalDocuments": 22,
+  "analyzedAt": "2025-12-01T20:26:12.126Z",
+  "words": [
+    {
+      "word": "information",
+      "count": 1224,
+      "documents": 18
+    },
+    {
+      "word": "data",
+      "count": 1175,
+      "documents": 18
+    },
+    {
+      "word": "personal",
+      "count": 698,
+      "documents": 15
+    },
+    {
+      "word": "daten",
+      "count": 502,
+      "documents": 5
+    },
+    {
+      "word": "privacy",
+      "count": 464,
+      "documents": 16
+    },
+    {
+      "word": "cookies",
+      "count": 347,
+      "documents": 16
+    },
+    {
+      "word": "provide",
+      "count": 304,
+      "documents": 15
+    },
+    {
+      "word": "access",
+      "count": 250,
+      "documents": 14
+    },
+    {
+      "word": "rights",
+      "count": 215,
+      "documents": 15
+    },
+    {
+      "word": "processing",
+      "count": 194,
+      "documents": 10
+    },
+    {
+      "word": "legal",
+      "count": 194,
+      "documents": 14
+    },
+    {
+      "word": "collect",
+      "count": 193,
+      "documents": 13
+    },
+    {
+      "word": "law",
+      "count": 181,
+      "documents": 14
+    },
+    {
+      "word": "art",
+      "count": 180,
+      "documents": 5
+    },
+    {
+      "word": "consent",
+      "count": 159,
+      "documents": 17
+    },
+    {
+      "word": "parties",
+      "count": 158,
+      "documents": 14
+    },
+    {
+      "word": "contact",
+      "count": 157,
+      "documents": 13
+    },
+    {
+      "word": "security",
+      "count": 153,
+      "documents": 13
+    },
+    {
+      "word": "zur",
+      "count": 153,
+      "documents": 5
+    },
+    {
+      "word": "address",
+      "count": 152,
+      "documents": 13
+    },
+    {
+      "word": "payment",
+      "count": 151,
+      "documents": 12
+    },
+    {
+      "word": "applicable",
+      "count": 150,
+      "documents": 14
+    },
+    {
+      "word": "advertising",
+      "count": 146,
+      "documents": 14
+    },
+    {
+      "word": "nicht",
+      "count": 145,
+      "documents": 5
+    },
+    {
+      "word": "share",
+      "count": 143,
+      "documents": 11
+    },
+    {
+      "word": "please",
+      "count": 138,
+      "documents": 12
+    },
+    {
+      "word": "informationen",
+      "count": 135,
+      "documents": 5
+    },
+    {
+      "word": "request",
+      "count": 125,
+      "documents": 12
+    },
+    {
+      "word": "like",
+      "count": 124,
+      "documents": 14
+    },
+    {
+      "word": "third-party",
+      "count": 114,
+      "documents": 12
+    },
+    {
+      "word": "name",
+      "count": 113,
+      "documents": 17
+    },
+    {
+      "word": "agree",
+      "count": 111,
+      "documents": 11
+    },
+    {
+      "word": "others",
+      "count": 108,
+      "documents": 13
+    },
+    {
+      "word": "provided",
+      "count": 107,
+      "documents": 13
+    },
+    {
+      "word": "ads",
+      "count": 104,
+      "documents": 10
+    },
+    {
+      "word": "order",
+      "count": 103,
+      "documents": 14
+    },
+    {
+      "word": "party",
+      "count": 103,
+      "documents": 14
+    },
+    {
+      "word": "protection",
+      "count": 103,
+      "documents": 12
+    },
+    {
+      "word": "affiliates",
+      "count": 98,
+      "documents": 14
+    },
+    {
+      "word": "laws",
+      "count": 98,
+      "documents": 14
+    },
+    {
+      "word": "limited",
+      "count": 98,
+      "documents": 18
+    },
+    {
+      "word": "verarbeitung",
+      "count": 96,
+      "documents": 5
+    },
+    {
+      "word": "based",
+      "count": 93,
+      "documents": 12
+    },
+    {
+      "word": "nutzung",
+      "count": 93,
+      "documents": 5
+    },
+    {
+      "word": "einwilligung",
+      "count": 93,
+      "documents": 5
+    },
+    {
+      "word": "technologies",
+      "count": 91,
+      "documents": 10
+    },
+    {
+      "word": "personenbezogenen",
+      "count": 91,
+      "documents": 5
+    },
+    {
+      "word": "responsible",
+      "count": 89,
+      "documents": 10
+    },
+    {
+      "word": "com",
+      "count": 87,
+      "documents": 13
+    },
+    {
+      "word": "receive",
+      "count": 85,
+      "documents": 13
+    },
+    {
+      "word": "marketing",
+      "count": 85,
+      "documents": 11
+    },
+    {
+      "word": "analytics",
+      "count": 85,
+      "documents": 11
+    },
+    {
+      "word": "social",
+      "count": 82,
+      "documents": 12
+    },
+    {
+      "word": "providers",
+      "count": 81,
+      "documents": 12
+    },
+    {
+      "word": "location",
+      "count": 80,
+      "documents": 10
+    },
+    {
+      "word": "zum",
+      "count": 80,
+      "documents": 5
+    },
+    {
+      "word": "collected",
+      "count": 79,
+      "documents": 12
+    },
+    {
+      "word": "gespeichert",
+      "count": 78,
+      "documents": 5
+    },
+    {
+      "word": "protect",
+      "count": 77,
+      "documents": 12
+    },
+    {
+      "word": "connection",
+      "count": 77,
+      "documents": 11
+    },
+    {
+      "word": "interests",
+      "count": 76,
+      "documents": 10
+    },
+    {
+      "word": "erfolgt",
+      "count": 74,
+      "documents": 5
+    },
+    {
+      "word": "cookie",
+      "count": 73,
+      "documents": 11
+    },
+    {
+      "word": "communications",
+      "count": 73,
+      "documents": 12
+    },
+    {
+      "word": "nutzer",
+      "count": 73,
+      "documents": 5
+    },
+    {
+      "word": "described",
+      "count": 71,
+      "documents": 14
+    },
+    {
+      "word": "purchase",
+      "count": 71,
+      "documents": 9
+    },
+    {
+      "word": "search",
+      "count": 71,
+      "documents": 12
+    },
+    {
+      "word": "review",
+      "count": 68,
+      "documents": 11
+    },
+    {
+      "word": "legitimate",
+      "count": 68,
+      "documents": 7
+    },
+    {
+      "word": "preferences",
+      "count": 66,
+      "documents": 7
+    },
+    {
+      "word": "license",
+      "count": 66,
+      "documents": 8
+    },
+    {
+      "word": "tab",
+      "count": 66,
+      "documents": 4
+    },
+    {
+      "word": "comply",
+      "count": 65,
+      "documents": 12
+    },
+    {
+      "word": "credit",
+      "count": 65,
+      "documents": 10
+    },
+    {
+      "word": "datenschutzerkl",
+      "count": 65,
+      "documents": 5
+    },
+    {
+      "word": "related",
+      "count": 63,
+      "documents": 12
+    },
+    {
+      "word": "profile",
+      "count": 63,
+      "documents": 12
+    },
+    {
+      "word": "window",
+      "count": 63,
+      "documents": 1
+    },
+    {
+      "word": "relevant",
+      "count": 62,
+      "documents": 15
+    },
+    {
+      "word": "control",
+      "count": 61,
+      "documents": 13
+    },
+    {
+      "word": "delete",
+      "count": 61,
+      "documents": 13
+    },
+    {
+      "word": "store",
+      "count": 60,
+      "documents": 11
+    },
+    {
+      "word": "visit",
+      "count": 60,
+      "documents": 12
+    },
+    {
+      "word": "choose",
+      "count": 58,
+      "documents": 13
+    },
+    {
+      "word": "obligations",
+      "count": 57,
+      "documents": 12
+    },
+    {
+      "word": "transaction",
+      "count": 56,
+      "documents": 7
+    },
+    {
+      "word": "improve",
+      "count": 55,
+      "documents": 11
+    },
+    {
+      "word": "ip-adresse",
+      "count": 55,
+      "documents": 5
+    },
+    {
+      "word": "interest",
+      "count": 54,
+      "documents": 10
+    },
+    {
+      "word": "apply",
+      "count": 54,
+      "documents": 13
+    },
+    {
+      "word": "erforderlich",
+      "count": 53,
+      "documents": 5
+    },
+    {
+      "word": "material",
+      "count": 53,
+      "documents": 13
+    },
+    {
+      "word": "view",
+      "count": 51,
+      "documents": 16
+    },
+    {
+      "word": "property",
+      "count": 50,
+      "documents": 12
+    },
+    {
+      "word": "datenschutz",
+      "count": 50,
+      "documents": 6
+    },
+    {
+      "word": "rechtsgrundlage",
+      "count": 50,
+      "documents": 4
+    },
+    {
+      "word": "compliance",
+      "count": 50,
+      "documents": 10
+    },
+    {
+      "word": "claims",
+      "count": 50,
+      "documents": 8
+    },
+    {
+      "word": "permitted",
+      "count": 50,
+      "documents": 8
+    },
+    {
+      "word": "fraud",
+      "count": 49,
+      "documents": 9
+    },
+    {
+      "word": "display",
+      "count": 48,
+      "documents": 15
+    },
+    {
+      "word": "recht",
+      "count": 48,
+      "documents": 5
+    },
+    {
+      "word": "copyright",
+      "count": 48,
+      "documents": 7
+    },
+    {
+      "word": "transactions",
+      "count": 47,
+      "documents": 9
+    },
+    {
+      "word": "card",
+      "count": 47,
+      "documents": 10
+    },
+    {
+      "word": "age",
+      "count": 47,
+      "documents": 13
+    },
+    {
+      "word": "sales",
+      "count": 47,
+      "documents": 6
+    },
+    {
+      "word": "disclose",
+      "count": 46,
+      "documents": 11
+    },
+    {
+      "word": "anbieter",
+      "count": 46,
+      "documents": 4
+    },
+    {
+      "word": "purchases",
+      "count": 45,
+      "documents": 9
+    },
+    {
+      "word": "accordance",
+      "count": 45,
+      "documents": 11
+    },
+    {
+      "word": "individual",
+      "count": 45,
+      "documents": 11
+    },
+    {
+      "word": "rules",
+      "count": 45,
+      "documents": 9
+    },
+    {
+      "word": "requests",
+      "count": 44,
+      "documents": 11
+    },
+    {
+      "word": "providing",
+      "count": 44,
+      "documents": 12
+    },
+    {
+      "word": "controller",
+      "count": 44,
+      "documents": 8
+    },
+    {
+      "word": "countries",
+      "count": 44,
+      "documents": 9
+    },
+    {
+      "word": "need",
+      "count": 44,
+      "documents": 11
+    },
+    {
+      "word": "framework",
+      "count": 43,
+      "documents": 8
+    },
+    {
+      "word": "behalf",
+      "count": 43,
+      "documents": 11
+    },
+    {
+      "word": "manage",
+      "count": 43,
+      "documents": 8
+    },
+    {
+      "word": "event",
+      "count": 43,
+      "documents": 12
+    },
+    {
+      "word": "nutzen",
+      "count": 43,
+      "documents": 5
+    },
+    {
+      "word": "submit",
+      "count": 43,
+      "documents": 11
+    },
+    {
+      "word": "another",
+      "count": 43,
+      "documents": 13
+    },
+    {
+      "word": "liability",
+      "count": 43,
+      "documents": 6
+    },
+    {
+      "word": "automatically",
+      "count": 42,
+      "documents": 10
+    },
+    {
+      "word": "directly",
+      "count": 42,
+      "documents": 12
+    },
+    {
+      "word": "publicly",
+      "count": 42,
+      "documents": 10
+    },
+    {
+      "word": "principles",
+      "count": 42,
+      "documents": 6
+    },
+    {
+      "word": "consumer",
+      "count": 41,
+      "documents": 10
+    },
+    {
+      "word": "collection",
+      "count": 41,
+      "documents": 10
+    },
+    {
+      "word": "personalized",
+      "count": 41,
+      "documents": 8
+    },
+    {
+      "word": "requirements",
+      "count": 41,
+      "documents": 12
+    },
+    {
+      "word": "post",
+      "count": 41,
+      "documents": 10
+    },
+    {
+      "word": "agencies",
+      "count": 41,
+      "documents": 3
+    },
+    {
+      "word": "choices",
+      "count": 40,
+      "documents": 8
+    },
+    {
+      "word": "chat",
+      "count": 40,
+      "documents": 8
+    },
+    {
+      "word": "jederzeit",
+      "count": 40,
+      "documents": 5
+    },
+    {
+      "word": "text",
+      "count": 39,
+      "documents": 12
+    },
+    {
+      "word": "outside",
+      "count": 39,
+      "documents": 10
+    },
+    {
+      "word": "identify",
+      "count": 38,
+      "documents": 10
+    },
+    {
+      "word": "code",
+      "count": 38,
+      "documents": 12
+    },
+    {
+      "word": "history",
+      "count": 38,
+      "documents": 8
+    },
+    {
+      "word": "depending",
+      "count": 38,
+      "documents": 9
+    },
+    {
+      "word": "billing",
+      "count": 38,
+      "documents": 10
+    },
+    {
+      "word": "retain",
+      "count": 38,
+      "documents": 10
+    },
+    {
+      "word": "arbitration",
+      "count": 38,
+      "documents": 6
+    },
+    {
+      "word": "intellectual",
+      "count": 38,
+      "documents": 7
+    },
+    {
+      "word": "telephone",
+      "count": 38,
+      "documents": 6
+    },
+    {
+      "word": "shared",
+      "count": 37,
+      "documents": 11
+    },
+    {
+      "word": "videos",
+      "count": 37,
+      "documents": 9
+    },
+    {
+      "word": "speicherung",
+      "count": 37,
+      "documents": 5
+    },
+    {
+      "word": "verarbeitet",
+      "count": 37,
+      "documents": 5
+    },
+    {
+      "word": "webseite",
+      "count": 37,
+      "documents": 4
+    },
+    {
+      "word": "jurisdiction",
+      "count": 37,
+      "documents": 11
+    },
+    {
+      "word": "tax",
+      "count": 37,
+      "documents": 5
+    },
+    {
+      "word": "private",
+      "count": 37,
+      "documents": 8
+    },
+    {
+      "word": "retention",
+      "count": 37,
+      "documents": 9
+    },
+    {
+      "word": "prior",
+      "count": 36,
+      "documents": 10
+    },
+    {
+      "word": "grundlage",
+      "count": 36,
+      "documents": 4
+    },
+    {
+      "word": "erhalten",
+      "count": 36,
+      "documents": 5
+    },
+    {
+      "word": "rahmen",
+      "count": 36,
+      "documents": 5
+    },
+    {
+      "word": "tracking",
+      "count": 36,
+      "documents": 11
+    },
+    {
+      "word": "obligation",
+      "count": 36,
+      "documents": 8
+    },
+    {
+      "word": "materials",
+      "count": 36,
+      "documents": 5
+    },
+    {
+      "word": "country",
+      "count": 36,
+      "documents": 12
+    },
+    {
+      "word": "sole",
+      "count": 36,
+      "documents": 5
+    },
+    {
+      "word": "update",
+      "count": 35,
+      "documents": 13
+    },
+    {
+      "word": "opt",
+      "count": 35,
+      "documents": 10
+    },
+    {
+      "word": "further",
+      "count": 35,
+      "documents": 11
+    },
+    {
+      "word": "government",
+      "count": 35,
+      "documents": 8
+    },
+    {
+      "word": "program",
+      "count": 34,
+      "documents": 9
+    },
+    {
+      "word": "video",
+      "count": 34,
+      "documents": 11
+    },
+    {
+      "word": "reviews",
+      "count": 34,
+      "documents": 7
+    },
+    {
+      "word": "associated",
+      "count": 34,
+      "documents": 13
+    },
+    {
+      "word": "act",
+      "count": 34,
+      "documents": 12
+    },
+    {
+      "word": "grant",
+      "count": 34,
+      "documents": 8
+    },
+    {
+      "word": "warranty",
+      "count": 34,
+      "documents": 5
+    },
+    {
+      "word": "disclosure",
+      "count": 33,
+      "documents": 9
+    },
+    {
+      "word": "identifiers",
+      "count": 33,
+      "documents": 7
+    },
+    {
+      "word": "performance",
+      "count": 33,
+      "documents": 12
+    },
+    {
+      "word": "prevent",
+      "count": 33,
+      "documents": 10
+    },
+    {
+      "word": "perform",
+      "count": 33,
+      "documents": 12
+    },
+    {
+      "word": "remove",
+      "count": 33,
+      "documents": 12
+    },
+    {
+      "word": "disputes",
+      "count": 33,
+      "documents": 8
+    },
+    {
+      "word": "signed",
+      "count": 33,
+      "documents": 8
+    },
+    {
+      "word": "payments",
+      "count": 32,
+      "documents": 5
+    },
+    {
+      "word": "financial",
+      "count": 32,
+      "documents": 9
+    },
+    {
+      "word": "verarbeiten",
+      "count": 32,
+      "documents": 5
+    },
+    {
+      "word": "e-mail",
+      "count": 32,
+      "documents": 10
+    },
+    {
+      "word": "professional",
+      "count": 32,
+      "documents": 7
+    },
+    {
+      "word": "recipients",
+      "count": 32,
+      "documents": 3
+    },
+    {
+      "word": "authorities",
+      "count": 32,
+      "documents": 8
+    },
+    {
+      "word": "authorized",
+      "count": 32,
+      "documents": 9
+    },
+    {
+      "word": "exercise",
+      "count": 32,
+      "documents": 10
+    },
+    {
+      "word": "respect",
+      "count": 32,
+      "documents": 11
+    },
+    {
+      "word": "arising",
+      "count": 32,
+      "documents": 6
+    },
+    {
+      "word": "relating",
+      "count": 32,
+      "documents": 8
+    },
+    {
+      "word": "offerings",
+      "count": 32,
+      "documents": 2
+    },
+    {
+      "word": "interact",
+      "count": 31,
+      "documents": 9
+    },
+    {
+      "word": "sellers",
+      "count": 31,
+      "documents": 2
+    },
+    {
+      "word": "abuse",
+      "count": 31,
+      "documents": 8
+    },
+    {
+      "word": "ask",
+      "count": 31,
+      "documents": 9
+    },
+    {
+      "word": "stored",
+      "count": 31,
+      "documents": 13
+    },
+    {
+      "word": "feedback",
+      "count": 31,
+      "documents": 9
+    },
+    {
+      "word": "beta",
+      "count": 31,
+      "documents": 2
+    },
+    {
+      "word": "entity",
+      "count": 31,
+      "documents": 9
+    },
+    {
+      "word": "fees",
+      "count": 31,
+      "documents": 7
+    },
+    {
+      "word": "illegal",
+      "count": 31,
+      "documents": 9
+    },
+    {
+      "word": "shipping",
+      "count": 31,
+      "documents": 4
+    },
+    {
+      "word": "practices",
+      "count": 30,
+      "documents": 9
+    },
+    {
+      "word": "copy",
+      "count": 30,
+      "documents": 11
+    },
+    {
+      "word": "damages",
+      "count": 30,
+      "documents": 6
+    },
+    {
+      "word": "applies",
+      "count": 30,
+      "documents": 10
+    },
+    {
+      "word": "seiten",
+      "count": 30,
+      "documents": 4
+    },
+    {
+      "word": "newsletter",
+      "count": 30,
+      "documents": 4
+    },
+    {
+      "word": "www",
+      "count": 30,
+      "documents": 8
+    },
+    {
+      "word": "transfer",
+      "count": 30,
+      "documents": 11
+    },
+    {
+      "word": "ensure",
+      "count": 30,
+      "documents": 10
+    },
+    {
+      "word": "responsibility",
+      "count": 30,
+      "documents": 7
+    },
+    {
+      "word": "limitation",
+      "count": 30,
+      "documents": 6
+    },
+    {
+      "word": "discretion",
+      "count": 30,
+      "documents": 6
+    },
+    {
+      "word": "enable",
+      "count": 29,
+      "documents": 10
+    },
+    {
+      "word": "disable",
+      "count": 29,
+      "documents": 10
+    },
+    {
+      "word": "addresses",
+      "count": 29,
+      "documents": 10
+    },
+    {
+      "word": "street",
+      "count": 29,
+      "documents": 7
+    },
+    {
+      "word": "datenverarbeitung",
+      "count": 29,
+      "documents": 4
+    },
+    {
+      "word": "media",
+      "count": 29,
+      "documents": 11
+    },
+    {
+      "word": "solely",
+      "count": 29,
+      "documents": 7
+    },
+    {
+      "word": "photo",
+      "count": 29,
+      "documents": 5
+    },
+    {
+      "word": "sharing",
+      "count": 29,
+      "documents": 7
+    },
+    {
+      "word": "permission",
+      "count": 29,
+      "documents": 10
+    },
+    {
+      "word": "claim",
+      "count": 29,
+      "documents": 6
+    },
+    {
+      "word": "experience",
+      "count": 28,
+      "documents": 8
+    },
+    {
+      "word": "risk",
+      "count": 28,
+      "documents": 8
+    },
+    {
+      "word": "loss",
+      "count": 28,
+      "documents": 9
+    },
+    {
+      "word": "direct",
+      "count": 28,
+      "documents": 11
+    },
+    {
+      "word": "connect",
+      "count": 28,
+      "documents": 7
+    },
+    {
+      "word": "verwendet",
+      "count": 28,
+      "documents": 5
+    },
+    {
+      "word": "endger",
+      "count": 28,
+      "documents": 5
+    },
+    {
+      "word": "processed",
+      "count": 28,
+      "documents": 8
+    },
+    {
+      "word": "automated",
+      "count": 28,
+      "documents": 9
+    },
+    {
+      "word": "enforcement",
+      "count": 28,
+      "documents": 9
+    },
+    {
+      "word": "regard",
+      "count": 28,
+      "documents": 7
+    },
+    {
+      "word": "disclosures",
+      "count": 27,
+      "documents": 8
+    },
+    {
+      "word": "children",
+      "count": 27,
+      "documents": 9
+    },
+    {
+      "word": "maintain",
+      "count": 27,
+      "documents": 9
+    },
+    {
+      "word": "storage",
+      "count": 27,
+      "documents": 6
+    },
+    {
+      "word": "addition",
+      "count": 27,
+      "documents": 13
+    },
+    {
+      "word": "dienste",
+      "count": 27,
+      "documents": 5
+    },
+    {
+      "word": "personenbezogene",
+      "count": 27,
+      "documents": 5
+    },
+    {
+      "word": "verwenden",
+      "count": 27,
+      "documents": 5
+    },
+    {
+      "word": "analyse",
+      "count": 27,
+      "documents": 5
+    },
+    {
+      "word": "commerce",
+      "count": 27,
+      "documents": 7
+    },
+    {
+      "word": "received",
+      "count": 27,
+      "documents": 9
+    },
+    {
+      "word": "complaint",
+      "count": 27,
+      "documents": 9
+    },
+    {
+      "word": "advertisements",
+      "count": 27,
+      "documents": 7
+    },
+    {
+      "word": "determine",
+      "count": 27,
+      "documents": 12
+    },
+    {
+      "word": "posted",
+      "count": 27,
+      "documents": 8
+    },
+    {
+      "word": "reasonable",
+      "count": 27,
+      "documents": 8
+    },
+    {
+      "word": "identity",
+      "count": 26,
+      "documents": 11
+    },
+    {
+      "word": "unauthorized",
+      "count": 26,
+      "documents": 7
+    },
+    {
+      "word": "membership",
+      "count": 26,
+      "documents": 5
+    },
+    {
+      "word": "notify",
+      "count": 26,
+      "documents": 11
+    },
+    {
+      "word": "interesse",
+      "count": 26,
+      "documents": 5
+    },
+    {
+      "word": "schung",
+      "count": 26,
+      "documents": 5
+    },
+    {
+      "word": "zwecke",
+      "count": 26,
+      "documents": 5
+    },
+    {
+      "word": "funktionen",
+      "count": 26,
+      "documents": 4
+    },
+    {
+      "word": "besteht",
+      "count": 26,
+      "documents": 3
+    },
+    {
+      "word": "besuch",
+      "count": 26,
+      "documents": 5
+    },
+    {
+      "word": "cannot",
+      "count": 26,
+      "documents": 9
+    },
+    {
+      "word": "identification",
+      "count": 26,
+      "documents": 4
+    },
+    {
+      "word": "transmit",
+      "count": 26,
+      "documents": 5
+    },
+    {
+      "word": "physical",
+      "count": 25,
+      "documents": 9
+    },
+    {
+      "word": "individuals",
+      "count": 25,
+      "documents": 7
+    },
+    {
+      "word": "usage",
+      "count": 25,
+      "documents": 9
+    },
+    {
+      "word": "located",
+      "count": 25,
+      "documents": 11
+    },
+    {
+      "word": "dispute",
+      "count": 25,
+      "documents": 9
+    },
+    {
+      "word": "technical",
+      "count": 25,
+      "documents": 9
+    },
+    {
+      "word": "entnehmen",
+      "count": 25,
+      "documents": 4
+    },
+    {
+      "word": "erhoben",
+      "count": 25,
+      "documents": 4
+    },
+    {
+      "word": "empf",
+      "count": 25,
+      "documents": 4
+    },
+    {
+      "word": "seite",
+      "count": 25,
+      "documents": 5
+    },
+    {
+      "word": "api",
+      "count": 25,
+      "documents": 6
+    },
+    {
+      "word": "repositories",
+      "count": 25,
+      "documents": 2
+    },
+    {
+      "word": "violation",
+      "count": 25,
+      "documents": 8
+    },
+    {
+      "word": "rely",
+      "count": 25,
+      "documents": 9
+    },
+    {
+      "word": "complaints",
+      "count": 25,
+      "documents": 8
+    },
+    {
+      "word": "statutory",
+      "count": 25,
+      "documents": 3
+    },
+    {
+      "word": "output",
+      "count": 25,
+      "documents": 3
+    },
+    {
+      "word": "communicate",
+      "count": 24,
+      "documents": 8
+    },
+    {
+      "word": "images",
+      "count": 24,
+      "documents": 10
+    },
+    {
+      "word": "controls",
+      "count": 24,
+      "documents": 7
+    },
+    {
+      "word": "electronic",
+      "count": 24,
+      "documents": 8
+    },
+    {
+      "word": "don",
+      "count": 24,
+      "documents": 5
+    },
+    {
+      "word": "seller",
+      "count": 24,
+      "documents": 3
+    },
+    {
+      "word": "resolve",
+      "count": 24,
+      "documents": 9
+    },
+    {
+      "word": "personenbezogener",
+      "count": 24,
+      "documents": 4
+    },
+    {
+      "word": "nutzt",
+      "count": 24,
+      "documents": 5
+    },
+    {
+      "word": "werbung",
+      "count": 24,
+      "documents": 5
+    },
+    {
+      "word": "widerrufen",
+      "count": 24,
+      "documents": 4
+    },
+    {
+      "word": "weisen",
+      "count": 24,
+      "documents": 4
+    },
+    {
+      "word": "hin",
+      "count": 24,
+      "documents": 4
+    },
+    {
+      "word": "withdraw",
+      "count": 24,
+      "documents": 7
+    },
+    {
+      "word": "provides",
+      "count": 24,
+      "documents": 9
+    },
+    {
+      "word": "visitors",
+      "count": 24,
+      "documents": 6
+    },
+    {
+      "word": "respond",
+      "count": 23,
+      "documents": 11
+    },
+    {
+      "word": "safety",
+      "count": 23,
+      "documents": 8
+    },
+    {
+      "word": "linked",
+      "count": 23,
+      "documents": 12
+    },
+    {
+      "word": "zweck",
+      "count": 23,
+      "documents": 5
+    },
+    {
+      "word": "inhalte",
+      "count": 23,
+      "documents": 4
+    },
+    {
+      "word": "setzen",
+      "count": 23,
+      "documents": 5
+    },
+    {
+      "word": "glichen",
+      "count": 23,
+      "documents": 5
+    },
+    {
+      "word": "rechte",
+      "count": 23,
+      "documents": 5
+    },
+    {
+      "word": "innen",
+      "count": 23,
+      "documents": 2
+    },
+    {
+      "word": "regional",
+      "count": 23,
+      "documents": 4
+    },
+    {
+      "word": "registered",
+      "count": 23,
+      "documents": 11
+    },
+    {
+      "word": "modify",
+      "count": 23,
+      "documents": 9
+    },
+    {
+      "word": "displayed",
+      "count": 23,
+      "documents": 10
+    },
+    {
+      "word": "export",
+      "count": 23,
+      "documents": 7
+    },
+    {
+      "word": "warranties",
+      "count": 23,
+      "documents": 6
+    },
+    {
+      "word": "warrant",
+      "count": 23,
+      "documents": 6
+    },
+    {
+      "word": "extension",
+      "count": 22,
+      "documents": 4
+    },
+    {
+      "word": "unique",
+      "count": 22,
+      "documents": 6
+    },
+    {
+      "word": "delivery",
+      "count": 22,
+      "documents": 8
+    },
+    {
+      "word": "detect",
+      "count": 22,
+      "documents": 6
+    },
+    {
+      "word": "transfers",
+      "count": 22,
+      "documents": 5
+    },
+    {
+      "word": "digital",
+      "count": 22,
+      "documents": 9
+    },
+    {
+      "word": "dritte",
+      "count": 22,
+      "documents": 4
+    },
+    {
+      "word": "datenschutzniveau",
+      "count": 22,
+      "documents": 3
+    },
+    {
+      "word": "automatisch",
+      "count": 22,
+      "documents": 4
+    },
+    {
+      "word": "einsatz",
+      "count": 22,
+      "documents": 4
+    },
+    {
+      "word": "beim",
+      "count": 22,
+      "documents": 5
+    },
+    {
+      "word": "union",
+      "count": 22,
+      "documents": 10
+    },
+    {
+      "word": "angebot",
+      "count": 22,
+      "documents": 4
+    },
+    {
+      "word": "court",
+      "count": 22,
+      "documents": 9
+    },
+    {
+      "word": "job",
+      "count": 22,
+      "documents": 5
+    },
+    {
+      "word": "commercial",
+      "count": 22,
+      "documents": 8
+    },
+    {
+      "word": "courts",
+      "count": 22,
+      "documents": 9
+    },
+    {
+      "word": "prohibited",
+      "count": 22,
+      "documents": 9
+    },
+    {
+      "word": "confidential",
+      "count": 22,
+      "documents": 7
+    },
+    {
+      "word": "breach",
+      "count": 22,
+      "documents": 7
+    },
+    {
+      "word": "collectively",
+      "count": 21,
+      "documents": 9
+    },
+    {
+      "word": "recommendations",
+      "count": 21,
+      "documents": 7
+    },
+    {
+      "word": "prevention",
+      "count": 21,
+      "documents": 7
+    },
+    {
+      "word": "opt-out",
+      "count": 21,
+      "documents": 6
+    },
+    {
+      "word": "communication",
+      "count": 21,
+      "documents": 8
+    },
+    {
+      "word": "bitte",
+      "count": 21,
+      "documents": 5
+    },
+    {
+      "word": "servern",
+      "count": 21,
+      "documents": 5
+    },
+    {
+      "word": "interessen",
+      "count": 21,
+      "documents": 5
+    },
+    {
+      "word": "refer",
+      "count": 21,
+      "documents": 8
+    },
+    {
+      "word": "object",
+      "count": 21,
+      "documents": 6
+    },
+    {
+      "word": "authority",
+      "count": 21,
+      "documents": 8
+    },
+    {
+      "word": "agent",
+      "count": 21,
+      "documents": 10
+    },
+    {
+      "word": "language",
+      "count": 21,
+      "documents": 8
+    },
+    {
+      "word": "harm",
+      "count": 21,
+      "documents": 9
+    },
+    {
+      "word": "acknowledge",
+      "count": 21,
+      "documents": 5
+    },
+    {
+      "word": "obtained",
+      "count": 21,
+      "documents": 6
+    },
+    {
+      "word": "develop",
+      "count": 20,
+      "documents": 5
+    },
+    {
+      "word": "orders",
+      "count": 20,
+      "documents": 6
+    },
+    {
+      "word": "input",
+      "count": 20,
+      "documents": 7
+    },
+    {
+      "word": "verification",
+      "count": 20,
+      "documents": 4
+    },
+    {
+      "word": "interactions",
+      "count": 20,
+      "documents": 7
+    },
+    {
+      "word": "url",
+      "count": 20,
+      "documents": 9
+    },
+    {
+      "word": "gesetzlichen",
+      "count": 20,
+      "documents": 5
+    },
+    {
+      "word": "verhindern",
+      "count": 20,
+      "documents": 4
+    },
+    {
+      "word": "aufgrund",
+      "count": 20,
+      "documents": 4
+    },
+    {
+      "word": "vom",
+      "count": 20,
+      "documents": 3
+    },
+    {
+      "word": "relationship",
+      "count": 20,
+      "documents": 5
+    },
+    {
+      "word": "contractual",
+      "count": 20,
+      "documents": 9
+    },
+    {
+      "word": "updates",
+      "count": 20,
+      "documents": 9
+    },
+    {
+      "word": "liable",
+      "count": 20,
+      "documents": 6
+    },
+    {
+      "word": "binding",
+      "count": 20,
+      "documents": 8
+    },
+    {
+      "word": "residents",
+      "count": 20,
+      "documents": 7
+    },
+    {
+      "word": "reserve",
+      "count": 20,
+      "documents": 8
+    },
+    {
+      "word": "conduct",
+      "count": 20,
+      "documents": 9
+    },
+    {
+      "word": "expressly",
+      "count": 20,
+      "documents": 6
+    },
+    {
+      "word": "charge",
+      "count": 20,
+      "documents": 7
+    },
+    {
+      "word": "legally",
+      "count": 20,
+      "documents": 7
+    },
+    {
+      "word": "interaction",
+      "count": 19,
+      "documents": 9
+    },
+    {
+      "word": "searches",
+      "count": 19,
+      "documents": 6
+    },
+    {
+      "word": "community",
+      "count": 19,
+      "documents": 7
+    },
+    {
+      "word": "log",
+      "count": 19,
+      "documents": 10
+    },
+    {
+      "word": "erhebung",
+      "count": 19,
+      "documents": 4
+    },
+    {
+      "word": "denen",
+      "count": 19,
+      "documents": 5
+    },
+    {
+      "word": "eu-kommission",
+      "count": 19,
+      "documents": 3
+    },
+    {
+      "word": "drittl",
+      "count": 19,
+      "documents": 2
+    },
+    {
+      "word": "webseiten",
+      "count": 19,
+      "documents": 4
+    },
+    {
+      "word": "profiling",
+      "count": 19,
+      "documents": 7
+    },
+    {
+      "word": "entities",
+      "count": 19,
+      "documents": 5
+    },
+    {
+      "word": "forth",
+      "count": 19,
+      "documents": 6
+    },
+    {
+      "word": "contained",
+      "count": 19,
+      "documents": 6
+    },
+    {
+      "word": "publish",
+      "count": 19,
+      "documents": 7
+    },
+    {
+      "word": "ownership",
+      "count": 19,
+      "documents": 4
+    },
+    {
+      "word": "restrict",
+      "count": 19,
+      "documents": 10
+    },
+    {
+      "word": "waiver",
+      "count": 19,
+      "documents": 4
+    },
+    {
+      "word": "center",
+      "count": 19,
+      "documents": 4
+    },
+    {
+      "word": "proceedings",
+      "count": 19,
+      "documents": 5
+    },
+    {
+      "word": "economic",
+      "count": 19,
+      "documents": 6
+    },
+    {
+      "word": "longer",
+      "count": 19,
+      "documents": 3
+    },
+    {
+      "word": "obtain",
+      "count": 18,
+      "documents": 8
+    },
+    {
+      "word": "technology",
+      "count": 18,
+      "documents": 10
+    },
+    {
+      "word": "mail",
+      "count": 18,
+      "documents": 9
+    },
+    {
+      "word": "identifier",
+      "count": 18,
+      "documents": 8
+    },
+    {
+      "word": "effective",
+      "count": 18,
+      "documents": 8
+    },
+    {
+      "word": "notifications",
+      "count": 18,
+      "documents": 6
+    },
+    {
+      "word": "photos",
+      "count": 18,
+      "documents": 6
+    },
+    {
+      "word": "verbindung",
+      "count": 18,
+      "documents": 5
+    },
+    {
+      "word": "bereitstellung",
+      "count": 18,
+      "documents": 4
+    },
+    {
+      "word": "stellen",
+      "count": 18,
+      "documents": 5
+    },
+    {
+      "word": "regel",
+      "count": 18,
+      "documents": 4
+    },
+    {
+      "word": "zudem",
+      "count": 18,
+      "documents": 4
+    },
+    {
+      "word": "deren",
+      "count": 18,
+      "documents": 4
+    },
+    {
+      "word": "widerruf",
+      "count": 18,
+      "documents": 4
+    },
+    {
+      "word": "auskunft",
+      "count": 18,
+      "documents": 5
+    },
+    {
+      "word": "representative",
+      "count": 18,
+      "documents": 6
+    },
+    {
+      "word": "enterprise",
+      "count": 18,
+      "documents": 5
+    },
+    {
+      "word": "protected",
+      "count": 18,
+      "documents": 9
+    },
+    {
+      "word": "lawful",
+      "count": 18,
+      "documents": 8
+    },
+    {
+      "word": "owner",
+      "count": 18,
+      "documents": 8
+    },
+    {
+      "word": "regulations",
+      "count": 18,
+      "documents": 7
+    },
+    {
+      "word": "contacting",
+      "count": 18,
+      "documents": 9
+    },
+    {
+      "word": "receiving",
+      "count": 18,
+      "documents": 7
+    },
+    {
+      "word": "designated",
+      "count": 18,
+      "documents": 5
+    },
+    {
+      "word": "reasonably",
+      "count": 18,
+      "documents": 8
+    },
+    {
+      "word": "sensitive",
+      "count": 18,
+      "documents": 6
+    },
+    {
+      "word": "affect",
+      "count": 18,
+      "documents": 10
+    },
+    {
+      "word": "child",
+      "count": 18,
+      "documents": 7
+    },
+    {
+      "word": "precise",
+      "count": 18,
+      "documents": 4
+    },
+    {
+      "word": "erasure",
+      "count": 18,
+      "documents": 2
+    },
+    {
+      "word": "gaming",
+      "count": 18,
+      "documents": 1
+    },
+    {
+      "word": "records",
+      "count": 17,
+      "documents": 6
+    },
+    {
+      "word": "deliver",
+      "count": 17,
+      "documents": 9
+    },
+    {
+      "word": "enforce",
+      "count": 17,
+      "documents": 10
+    },
+    {
+      "word": "advertisers",
+      "count": 17,
+      "documents": 5
+    },
+    {
+      "word": "contacts",
+      "count": 17,
+      "documents": 6
+    },
+    {
+      "word": "accessing",
+      "count": 17,
+      "documents": 10
+    },
+    {
+      "word": "limitations",
+      "count": 17,
+      "documents": 7
+    },
+    {
+      "word": "guidelines",
+      "count": 17,
+      "documents": 8
+    },
+    {
+      "word": "listed",
+      "count": 17,
+      "documents": 7
+    },
+    {
+      "word": "provider",
+      "count": 17,
+      "documents": 11
+    },
+    {
+      "word": "ausschlie",
+      "count": 17,
+      "documents": 4
+    },
+    {
+      "word": "dienst",
+      "count": 17,
+      "documents": 5
+    },
+    {
+      "word": "anzeigen",
+      "count": 17,
+      "documents": 5
+    },
+    {
+      "word": "ids",
+      "count": 17,
+      "documents": 7
+    },
+    {
+      "word": "sozialen",
+      "count": 17,
+      "documents": 4
+    },
+    {
+      "word": "audio",
+      "count": 17,
+      "documents": 7
+    },
+    {
+      "word": "defined",
+      "count": 17,
+      "documents": 7
+    },
+    {
+      "word": "title",
+      "count": 17,
+      "documents": 8
+    },
+    {
+      "word": "withdrawal",
+      "count": 17,
+      "documents": 6
+    },
+    {
+      "word": "disclosed",
+      "count": 17,
+      "documents": 7
+    },
+    {
+      "word": "commission",
+      "count": 17,
+      "documents": 4
+    },
+    {
+      "word": "engage",
+      "count": 17,
+      "documents": 7
+    },
+    {
+      "word": "global",
+      "count": 17,
+      "documents": 5
+    },
+    {
+      "word": "someone",
+      "count": 17,
+      "documents": 5
+    },
+    {
+      "word": "immediately",
+      "count": 17,
+      "documents": 7
+    },
+    {
+      "word": "messaging",
+      "count": 17,
+      "documents": 5
+    },
+    {
+      "word": "models",
+      "count": 17,
+      "documents": 7
+    },
+    {
+      "word": "news",
+      "count": 17,
+      "documents": 7
+    },
+    {
+      "word": "processors",
+      "count": 17,
+      "documents": 5
+    },
+    {
+      "word": "secure",
+      "count": 16,
+      "documents": 9
+    },
+    {
+      "word": "correct",
+      "count": 16,
+      "documents": 11
+    },
+    {
+      "word": "analyze",
+      "count": 16,
+      "documents": 6
+    },
+    {
+      "word": "zugriff",
+      "count": 16,
+      "documents": 4
+    },
+    {
+      "word": "anfrage",
+      "count": 16,
+      "documents": 5
+    },
+    {
+      "word": "widerspruch",
+      "count": 16,
+      "documents": 5
+    },
+    {
+      "word": "uhrzeit",
+      "count": 16,
+      "documents": 5
+    },
+    {
+      "word": "house",
+      "count": 16,
+      "documents": 4
+    },
+    {
+      "word": "eingeloggt",
+      "count": 16,
+      "documents": 3
+    },
+    {
+      "word": "maps",
+      "count": 16,
+      "documents": 5
+    },
+    {
+      "word": "contributions",
+      "count": 16,
+      "documents": 3
+    },
+    {
+      "word": "comments",
+      "count": 16,
+      "documents": 8
+    },
+    {
+      "word": "development",
+      "count": 16,
+      "documents": 6
+    },
+    {
+      "word": "manner",
+      "count": 16,
+      "documents": 8
+    },
+    {
+      "word": "become",
+      "count": 16,
+      "documents": 9
+    },
+    {
+      "word": "research",
+      "count": 16,
+      "documents": 8
+    },
+    {
+      "word": "agents",
+      "count": 16,
+      "documents": 6
+    },
+    {
+      "word": "world",
+      "count": 16,
+      "documents": 6
+    },
+    {
+      "word": "accuracy",
+      "count": 16,
+      "documents": 6
+    },
+    {
+      "word": "represent",
+      "count": 16,
+      "documents": 5
+    },
+    {
+      "word": "service-specific",
+      "count": 16,
+      "documents": 2
+    },
+    {
+      "word": "names",
+      "count": 16,
+      "documents": 7
+    },
+    {
+      "word": "posts",
+      "count": 16,
+      "documents": 4
+    },
+    {
+      "word": "sale",
+      "count": 16,
+      "documents": 7
+    },
+    {
+      "word": "external",
+      "count": 16,
+      "documents": 5
+    },
+    {
+      "word": "updated",
+      "count": 15,
+      "documents": 7
+    },
+    {
+      "word": "handling",
+      "count": 15,
+      "documents": 7
+    },
+    {
+      "word": "safeguards",
+      "count": 15,
+      "documents": 5
+    },
+    {
+      "word": "verify",
+      "count": 15,
+      "documents": 8
+    },
+    {
+      "word": "shopping",
+      "count": 15,
+      "documents": 8
+    },
+    {
+      "word": "block",
+      "count": 15,
+      "documents": 9
+    },
+    {
+      "word": "browsing",
+      "count": 15,
+      "documents": 5
+    },
+    {
+      "word": "wish",
+      "count": 15,
+      "documents": 8
+    },
+    {
+      "word": "participate",
+      "count": 15,
+      "documents": 8
+    },
+    {
+      "word": "informieren",
+      "count": 15,
+      "documents": 5
+    },
+    {
+      "word": "speichern",
+      "count": 15,
+      "documents": 5
+    },
+    {
+      "word": "berechtigtes",
+      "count": 15,
+      "documents": 3
+    },
+    {
+      "word": "standarddatenschutzklauseln",
+      "count": 15,
+      "documents": 1
+    },
+    {
+      "word": "dienen",
+      "count": 15,
+      "documents": 5
+    },
+    {
+      "word": "funktion",
+      "count": 15,
+      "documents": 3
+    },
+    {
+      "word": "nachfolgend",
+      "count": 15,
+      "documents": 4
+    },
+    {
+      "word": "verwendung",
+      "count": 15,
+      "documents": 5
+    },
+    {
+      "word": "deaktivieren",
+      "count": 15,
+      "documents": 3
+    },
+    {
+      "word": "pixel",
+      "count": 15,
+      "documents": 5
+    },
+    {
+      "word": "verlangen",
+      "count": 15,
+      "documents": 5
+    },
+    {
+      "word": "operating",
+      "count": 15,
+      "documents": 9
+    },
+    {
+      "word": "generate",
+      "count": 15,
+      "documents": 7
+    },
+    {
+      "word": "fulfill",
+      "count": 15,
+      "documents": 4
+    },
+    {
+      "word": "accessible",
+      "count": 15,
+      "documents": 10
+    },
+    {
+      "word": "violate",
+      "count": 15,
+      "documents": 7
+    },
+    {
+      "word": "freedoms",
+      "count": 15,
+      "documents": 5
+    },
+    {
+      "word": "decision",
+      "count": 15,
+      "documents": 6
+    },
+    {
+      "word": "track",
+      "count": 15,
+      "documents": 5
+    },
+    {
+      "word": "licensors",
+      "count": 15,
+      "documents": 4
+    },
+    {
+      "word": "posting",
+      "count": 15,
+      "documents": 8
+    },
+    {
+      "word": "calendar",
+      "count": 15,
+      "documents": 5
+    },
+    {
+      "word": "infringement",
+      "count": 15,
+      "documents": 6
+    },
+    {
+      "word": "trademarks",
+      "count": 15,
+      "documents": 7
+    },
+    {
+      "word": "termination",
+      "count": 15,
+      "documents": 4
+    },
+    {
+      "word": "anyone",
+      "count": 15,
+      "documents": 8
+    },
+    {
+      "word": "proceeding",
+      "count": 15,
+      "documents": 4
+    },
+    {
+      "word": "unlawful",
+      "count": 15,
+      "documents": 4
+    },
+    {
+      "word": "costs",
+      "count": 15,
+      "documents": 5
+    },
+    {
+      "word": "respective",
+      "count": 15,
+      "documents": 4
+    },
+    {
+      "word": "saved",
+      "count": 15,
+      "documents": 2
+    },
+    {
+      "word": "carefully",
+      "count": 14,
+      "documents": 9
+    },
+    {
+      "word": "health",
+      "count": 14,
+      "documents": 4
+    },
+    {
+      "word": "functionality",
+      "count": 14,
+      "documents": 10
+    },
+    {
+      "word": "requested",
+      "count": 14,
+      "documents": 8
+    },
+    {
+      "word": "bank",
+      "count": 14,
+      "documents": 4
+    },
+    {
+      "word": "involved",
+      "count": 14,
+      "documents": 5
+    },
+    {
+      "word": "sign",
+      "count": 14,
+      "documents": 7
+    },
+    {
+      "word": "adjust",
+      "count": 14,
+      "documents": 7
+    },
+    {
+      "word": "updating",
+      "count": 14,
+      "documents": 6
+    },
+    {
+      "word": "availability",
+      "count": 14,
+      "documents": 6
+    },
+    {
+      "word": "response",
+      "count": 14,
+      "documents": 7
+    },
+    {
+      "word": "erfasst",
+      "count": 14,
+      "documents": 4
+    },
+    {
+      "word": "verpflichten",
+      "count": 14,
+      "documents": 1
+    },
+    {
+      "word": "corporation",
+      "count": 14,
+      "documents": 7
+    },
+    {
+      "word": "sicherstellen",
+      "count": 14,
+      "documents": 2
+    },
+    {
+      "word": "e-mail-adresse",
+      "count": 14,
+      "documents": 4
+    },
+    {
+      "word": "angaben",
+      "count": 14,
+      "documents": 4
+    },
+    {
+      "word": "berechtigten",
+      "count": 14,
+      "documents": 3
+    },
+    {
+      "word": "hinaus",
+      "count": 14,
+      "documents": 5
+    },
+    {
+      "word": "verpflichtet",
+      "count": 14,
+      "documents": 4
+    },
+    {
+      "word": "angemessenheitsbeschluss",
+      "count": 14,
+      "documents": 2
+    },
+    {
+      "word": "verkn",
+      "count": 14,
+      "documents": 4
+    },
+    {
+      "word": "besuchen",
+      "count": 14,
+      "documents": 3
+    },
+    {
+      "word": "buchstabe",
+      "count": 14,
+      "documents": 1
+    },
+    {
+      "word": "non-essential",
+      "count": 14,
+      "documents": 1
+    },
+    {
+      "word": "consistent",
+      "count": 14,
+      "documents": 8
+    },
+    {
+      "word": "complying",
+      "count": 14,
+      "documents": 7
+    },
+    {
+      "word": "fundamental",
+      "count": 14,
+      "documents": 5
+    },
+    {
+      "word": "region",
+      "count": 14,
+      "documents": 6
+    },
+    {
+      "word": "designed",
+      "count": 14,
+      "documents": 7
+    },
+    {
+      "word": "deletion",
+      "count": 14,
+      "documents": 8
+    },
+    {
+      "word": "fraudulent",
+      "count": 14,
+      "documents": 4
+    },
+    {
+      "word": "treat",
+      "count": 14,
+      "documents": 7
+    },
+    {
+      "word": "github's",
+      "count": 14,
+      "documents": 1
+    },
+    {
+      "word": "cancel",
+      "count": 14,
+      "documents": 4
+    },
+    {
+      "word": "terminate",
+      "count": 14,
+      "documents": 6
+    },
+    {
+      "word": "worldwide",
+      "count": 14,
+      "documents": 7
+    },
+    {
+      "word": "accurate",
+      "count": 14,
+      "documents": 6
+    },
+    {
+      "word": "governed",
+      "count": 14,
+      "documents": 8
+    },
+    {
+      "word": "collects",
+      "count": 14,
+      "documents": 6
+    },
+    {
+      "word": "premium",
+      "count": 14,
+      "documents": 2
+    },
+    {
+      "word": "push",
+      "count": 14,
+      "documents": 5
+    },
+    {
+      "word": "ratings",
+      "count": 14,
+      "documents": 3
+    },
+    {
+      "word": "buyer",
+      "count": 14,
+      "documents": 3
+    },
+    {
+      "word": "operate",
+      "count": 13,
+      "documents": 6
+    },
+    {
+      "word": "risks",
+      "count": 13,
+      "documents": 4
+    },
+    {
+      "word": "assess",
+      "count": 13,
+      "documents": 5
+    },
+    {
+      "word": "subsidiaries",
+      "count": 13,
+      "documents": 10
+    },
+    {
+      "word": "edit",
+      "count": 13,
+      "documents": 8
+    },
+    {
+      "word": "menu",
+      "count": 13,
+      "documents": 6
+    },
+    {
+      "word": "manufacturer",
+      "count": 13,
+      "documents": 4
+    },
+    {
+      "word": "developer",
+      "count": 13,
+      "documents": 4
+    },
+    {
+      "word": "viewed",
+      "count": 13,
+      "documents": 6
+    },
+    {
+      "word": "bureaus",
+      "count": 13,
+      "documents": 2
+    },
+    {
+      "word": "newsletters",
+      "count": 13,
+      "documents": 6
+    },
+    {
+      "word": "weitergeleitet",
+      "count": 13,
+      "documents": 4
+    },
+    {
+      "word": "schutz",
+      "count": 13,
+      "documents": 4
+    },
+    {
+      "word": "technisch",
+      "count": 13,
+      "documents": 5
+    },
+    {
+      "word": "zwecken",
+      "count": 13,
+      "documents": 5
+    },
+    {
+      "word": "zukunft",
+      "count": 13,
+      "documents": 5
+    },
+    {
+      "word": "nachfolgenden",
+      "count": 13,
+      "documents": 3
+    },
+    {
+      "word": "pers",
+      "count": 13,
+      "documents": 3
+    },
+    {
+      "word": "erteilt",
+      "count": 13,
+      "documents": 3
+    },
+    {
+      "word": "hierf",
+      "count": 13,
+      "documents": 3
+    },
+    {
+      "word": "schutzmechanismen",
+      "count": 13,
+      "documents": 1
+    },
+    {
+      "word": "erhobenen",
+      "count": 13,
+      "documents": 4
+    },
+    {
+      "word": "anzeige",
+      "count": 13,
+      "documents": 4
+    },
+    {
+      "word": "einfluss",
+      "count": 13,
+      "documents": 4
+    },
+    {
+      "word": "werbeanzeigen",
+      "count": 13,
+      "documents": 3
+    },
+    {
+      "word": "management",
+      "count": 13,
+      "documents": 7
+    },
+    {
+      "word": "geltendmachung",
+      "count": 13,
+      "documents": 3
+    },
+    {
+      "word": "betreiber",
+      "count": 13,
+      "documents": 5
+    },
+    {
+      "word": "plattformen",
+      "count": 13,
+      "documents": 3
+    },
+    {
+      "word": "govern",
+      "count": 13,
+      "documents": 7
+    },
+    {
+      "word": "contain",
+      "count": 13,
+      "documents": 7
+    },
+    {
+      "word": "identified",
+      "count": 13,
+      "documents": 7
+    },
+    {
+      "word": "authentication",
+      "count": 13,
+      "documents": 4
+    },
+    {
+      "word": "promote",
+      "count": 13,
+      "documents": 7
+    },
+    {
+      "word": "detection",
+      "count": 13,
+      "documents": 4
+    },
+    {
+      "word": "violations",
+      "count": 13,
+      "documents": 6
+    },
+    {
+      "word": "communicating",
+      "count": 13,
+      "documents": 7
+    },
+    {
+      "word": "reliance",
+      "count": 13,
+      "documents": 4
+    },
+    {
+      "word": "conflict",
+      "count": 13,
+      "documents": 8
+    },
+    {
+      "word": "federal",
+      "count": 13,
+      "documents": 7
+    },
+    {
+      "word": "trade",
+      "count": 13,
+      "documents": 8
+    },
+    {
+      "word": "failure",
+      "count": 13,
+      "documents": 6
+    },
+    {
+      "word": "deleted",
+      "count": 13,
+      "documents": 7
+    },
+    {
+      "word": "accessed",
+      "count": 13,
+      "documents": 8
+    },
+    {
+      "word": "owned",
+      "count": 13,
+      "documents": 7
+    },
+    {
+      "word": "express",
+      "count": 13,
+      "documents": 7
+    },
+    {
+      "word": "knowledge",
+      "count": 13,
+      "documents": 8
+    },
+    {
+      "word": "guarantee",
+      "count": 13,
+      "documents": 7
+    },
+    {
+      "word": "cancellation",
+      "count": 13,
+      "documents": 3
+    },
+    {
+      "word": "machine",
+      "count": 13,
+      "documents": 4
+    },
+    {
+      "word": "regardless",
+      "count": 13,
+      "documents": 6
+    },
+    {
+      "word": "distribute",
+      "count": 13,
+      "documents": 6
+    },
+    {
+      "word": "price",
+      "count": 13,
+      "documents": 3
+    },
+    {
+      "word": "viruses",
+      "count": 13,
+      "documents": 6
+    },
+    {
+      "word": "visible",
+      "count": 13,
+      "documents": 5
+    },
+    {
+      "word": "analysis",
+      "count": 13,
+      "documents": 8
+    },
+    {
+      "word": "purchased",
+      "count": 13,
+      "documents": 5
+    },
+    {
+      "word": "connections",
+      "count": 13,
+      "documents": 2
+    },
+    {
+      "word": "fee",
+      "count": 13,
+      "documents": 4
+    },
+    {
+      "word": "legislation",
+      "count": 13,
+      "documents": 2
+    },
+    {
+      "word": "describes",
+      "count": 12,
+      "documents": 9
+    },
+    {
+      "word": "promotional",
+      "count": 12,
+      "documents": 6
+    },
+    {
+      "word": "errors",
+      "count": 12,
+      "documents": 5
+    },
+    {
+      "word": "least",
+      "count": 12,
+      "documents": 8
+    },
+    {
+      "word": "transferred",
+      "count": 12,
+      "documents": 9
+    },
+    {
+      "word": "sure",
+      "count": 12,
+      "documents": 7
+    },
+    {
+      "word": "goods",
+      "count": 12,
+      "documents": 8
+    },
+    {
+      "word": "anhand",
+      "count": 12,
+      "documents": 4
+    },
+    {
+      "word": "zusammenhang",
+      "count": 12,
+      "documents": 4
+    },
+    {
+      "word": "vorgaben",
+      "count": 12,
+      "documents": 5
+    },
+    {
+      "word": "kontaktformular",
+      "count": 12,
+      "documents": 4
+    },
+    {
+      "word": "bearbeitung",
+      "count": 12,
+      "documents": 4
+    },
+    {
+      "word": "hrleisten",
+      "count": 12,
+      "documents": 5
+    },
+    {
+      "word": "entsprechend",
+      "count": 12,
+      "documents": 2
+    },
+    {
+      "word": "angegebenen",
+      "count": 12,
+      "documents": 3
+    },
+    {
+      "word": "ben",
+      "count": 12,
+      "documents": 5
+    },
+    {
+      "word": "chten",
+      "count": 12,
+      "documents": 5
+    },
+    {
+      "word": "erfassten",
+      "count": 12,
+      "documents": 4
+    },
+    {
+      "word": "einschlie",
+      "count": 12,
+      "documents": 5
+    },
+    {
+      "word": "verarbeitungen",
+      "count": 12,
+      "documents": 4
+    },
+    {
+      "word": "speichert",
+      "count": 12,
+      "documents": 4
+    },
+    {
+      "word": "einstellungen",
+      "count": 12,
+      "documents": 4
+    },
+    {
+      "word": "einstellung",
+      "count": 12,
+      "documents": 3
+    },
+    {
+      "word": "erfassung",
+      "count": 12,
+      "documents": 4
+    },
+    {
+      "word": "wenden",
+      "count": 12,
+      "documents": 4
+    },
+    {
+      "word": "europe",
+      "count": 12,
+      "documents": 6
+    },
+    {
+      "word": "bertragen",
+      "count": 12,
+      "documents": 4
+    },
+    {
+      "word": "kontaktdaten",
+      "count": 12,
+      "documents": 5
+    },
+    {
+      "word": "registrierung",
+      "count": 12,
+      "documents": 3
+    },
+    {
+      "word": "monitoring",
+      "count": 12,
+      "documents": 5
+    },
+    {
+      "word": "unber",
+      "count": 12,
+      "documents": 3
+    },
+    {
+      "word": "employer",
+      "count": 12,
+      "documents": 3
+    },
+    {
+      "word": "instructions",
+      "count": 12,
+      "documents": 6
+    },
+    {
+      "word": "depends",
+      "count": 12,
+      "documents": 4
+    },
+    {
+      "word": "surveys",
+      "count": 12,
+      "documents": 4
+    },
+    {
+      "word": "aggregated",
+      "count": 12,
+      "documents": 6
+    },
+    {
+      "word": "confidentiality",
+      "count": 12,
+      "documents": 5
+    },
+    {
+      "word": "future",
+      "count": 12,
+      "documents": 5
+    },
+    {
+      "word": "aware",
+      "count": 12,
+      "documents": 7
+    },
+    {
+      "word": "damage",
+      "count": 12,
+      "documents": 5
+    },
+    {
+      "word": "save",
+      "count": 12,
+      "documents": 6
+    },
+    {
+      "word": "traffic",
+      "count": 12,
+      "documents": 7
+    },
+    {
+      "word": "basic",
+      "count": 12,
+      "documents": 8
+    },
+    {
+      "word": "hold",
+      "count": 12,
+      "documents": 7
+    },
+    {
+      "word": "user-generated",
+      "count": 12,
+      "documents": 2
+    },
+    {
+      "word": "losses",
+      "count": 12,
+      "documents": 6
+    },
+    {
+      "word": "valid",
+      "count": 12,
+      "documents": 6
+    },
+    {
+      "word": "pursuant",
+      "count": 12,
+      "documents": 5
+    },
+    {
+      "word": "intelligence",
+      "count": 12,
+      "documents": 7
+    },
+    {
+      "word": "programs",
+      "count": 12,
+      "documents": 7
+    },
+    {
+      "word": "pricing",
+      "count": 12,
+      "documents": 4
+    },
+    {
+      "word": "assessments",
+      "count": 12,
+      "documents": 3
+    },
+    {
+      "word": "specified",
+      "count": 12,
+      "documents": 6
+    },
+    {
+      "word": "statistics",
+      "count": 12,
+      "documents": 7
+    },
+    {
+      "word": "independent",
+      "count": 12,
+      "documents": 5
+    },
+    {
+      "word": "investigation",
+      "count": 12,
+      "documents": 3
+    },
+    {
+      "word": "foregoing",
+      "count": 12,
+      "documents": 2
+    },
+    {
+      "word": "automatic",
+      "count": 11,
+      "documents": 7
+    },
+    {
+      "word": "recommend",
+      "count": 11,
+      "documents": 5
+    },
+    {
+      "word": "transmission",
+      "count": 11,
+      "documents": 4
+    },
+    {
+      "word": "notification",
+      "count": 11,
+      "documents": 5
+    },
+    {
+      "word": "essential",
+      "count": 11,
+      "documents": 7
+    },
+    {
+      "word": "ability",
+      "count": 11,
+      "documents": 10
+    },
+    {
+      "word": "check",
+      "count": 11,
+      "documents": 9
+    },
+    {
+      "word": "less",
+      "count": 11,
+      "documents": 5
+    },
+    {
+      "word": "visits",
+      "count": 11,
+      "documents": 5
+    },
+    {
+      "word": "merchants",
+      "count": 11,
+      "documents": 3
+    },
+    {
+      "word": "erkennen",
+      "count": 11,
+      "documents": 4
+    },
+    {
+      "word": "sinne",
+      "count": 11,
+      "documents": 4
+    },
+    {
+      "word": "direkt",
+      "count": 11,
+      "documents": 4
+    },
+    {
+      "word": "geschlossen",
+      "count": 11,
+      "documents": 2
+    },
+    {
+      "word": "eingesetzt",
+      "count": 11,
+      "documents": 2
+    },
+    {
+      "word": "technischen",
+      "count": 11,
+      "documents": 3
+    },
+    {
+      "word": "internetbrowser",
+      "count": 11,
+      "documents": 4
+    },
+    {
+      "word": "datum",
+      "count": 11,
+      "documents": 4
+    },
+    {
+      "word": "kein",
+      "count": 11,
+      "documents": 4
+    },
+    {
+      "word": "hilfe",
+      "count": 11,
+      "documents": 5
+    },
+    {
+      "word": "google-konto",
+      "count": 11,
+      "documents": 3
+    },
+    {
+      "word": "internetauftritt",
+      "count": 11,
+      "documents": 2
+    },
+    {
+      "word": "chen",
+      "count": 11,
+      "documents": 3
+    },
+    {
+      "word": "handelt",
+      "count": 11,
+      "documents": 4
+    },
+    {
+      "word": "adresse",
+      "count": 11,
+      "documents": 4
+    },
+    {
+      "word": "genutzt",
+      "count": 11,
+      "documents": 4
+    },
+    {
+      "word": "angebots",
+      "count": 11,
+      "documents": 2
+    },
+    {
+      "word": "nge",
+      "count": 11,
+      "documents": 3
+    },
+    {
+      "word": "berichtigung",
+      "count": 11,
+      "documents": 5
+    },
+    {
+      "word": "rde",
+      "count": 11,
+      "documents": 5
+    },
+    {
+      "word": "weitergabe",
+      "count": 11,
+      "documents": 5
+    },
+    {
+      "word": "senz",
+      "count": 11,
+      "documents": 2
+    },
+    {
+      "word": "suite",
+      "count": 11,
+      "documents": 6
+    },
+    {
+      "word": "android",
+      "count": 11,
+      "documents": 2
+    },
+    {
+      "word": "parkway",
+      "count": 11,
+      "documents": 2
+    },
+    {
+      "word": "mailchimp",
+      "count": 11,
+      "documents": 1
+    },
+    {
+      "word": "assume",
+      "count": 11,
+      "documents": 6
+    },
+    {
+      "word": "demographic",
+      "count": 11,
+      "documents": 5
+    },
+    {
+      "word": "vendors",
+      "count": 11,
+      "documents": 6
+    },
+    {
+      "word": "potential",
+      "count": 11,
+      "documents": 7
+    },
+    {
+      "word": "internal",
+      "count": 11,
+      "documents": 8
+    },
+    {
+      "word": "training",
+      "count": 11,
+      "documents": 5
+    },
+    {
+      "word": "facilitate",
+      "count": 11,
+      "documents": 6
+    },
+    {
+      "word": "repository",
+      "count": 11,
+      "documents": 3
+    },
+    {
+      "word": "ensuring",
+      "count": 11,
+      "documents": 4
+    },
+    {
+      "word": "intended",
+      "count": 11,
+      "documents": 8
+    },
+    {
+      "word": "targeted",
+      "count": 11,
+      "documents": 4
+    },
+    {
+      "word": "inferences",
+      "count": 11,
+      "documents": 4
+    },
+    {
+      "word": "investigate",
+      "count": 11,
+      "documents": 4
+    },
+    {
+      "word": "encourage",
+      "count": 11,
+      "documents": 6
+    },
+    {
+      "word": "else",
+      "count": 11,
+      "documents": 6
+    },
+    {
+      "word": "maintaining",
+      "count": 11,
+      "documents": 7
+    },
+    {
+      "word": "restrictions",
+      "count": 11,
+      "documents": 5
+    },
+    {
+      "word": "trademark",
+      "count": 11,
+      "documents": 5
+    },
+    {
+      "word": "refuse",
+      "count": 11,
+      "documents": 7
+    },
+    {
+      "word": "granted",
+      "count": 11,
+      "documents": 4
+    },
+    {
+      "word": "reproduce",
+      "count": 11,
+      "documents": 6
+    },
+    {
+      "word": "hereby",
+      "count": 11,
+      "documents": 5
+    },
+    {
+      "word": "advance",
+      "count": 11,
+      "documents": 6
+    },
+    {
+      "word": "implied",
+      "count": 11,
+      "documents": 5
+    },
+    {
+      "word": "indemnify",
+      "count": 11,
+      "documents": 6
+    },
+    {
+      "word": "defend",
+      "count": 11,
+      "documents": 8
+    },
+    {
+      "word": "proprietary",
+      "count": 11,
+      "documents": 5
+    },
+    {
+      "word": "enabling",
+      "count": 11,
+      "documents": 4
+    },
+    {
+      "word": "regulatory",
+      "count": 11,
+      "documents": 7
+    },
+    {
+      "word": "participation",
+      "count": 11,
+      "documents": 5
+    },
+    {
+      "word": "assessment",
+      "count": 11,
+      "documents": 2
+    },
+    {
+      "word": "carry",
+      "count": 11,
+      "documents": 3
+    },
+    {
+      "word": "herein",
+      "count": 11,
+      "documents": 3
+    },
+    {
+      "word": "filtering",
+      "count": 11,
+      "documents": 2
+    },
+    {
+      "word": "promotion",
+      "count": 11,
+      "documents": 4
+    },
+    {
+      "word": "judicial",
+      "count": 11,
+      "documents": 2
+    },
+    {
+      "word": "corresponding",
+      "count": 11,
+      "documents": 2
+    },
+    {
+      "word": "personalization",
+      "count": 10,
+      "documents": 6
+    },
+    {
+      "word": "identifies",
+      "count": 10,
+      "documents": 4
+    },
+    {
+      "word": "managing",
+      "count": 10,
+      "documents": 5
+    },
+    {
+      "word": "needed",
+      "count": 10,
+      "documents": 6
+    },
+    {
+      "word": "permissions",
+      "count": 10,
+      "documents": 5
+    },
+    {
+      "word": "parent",
+      "count": 10,
+      "documents": 5
+    },
+    {
+      "word": "resolution",
+      "count": 10,
+      "documents": 6
+    },
+    {
+      "word": "corporate",
+      "count": 10,
+      "documents": 5
+    },
+    {
+      "word": "umgang",
+      "count": 10,
+      "documents": 4
+    },
+    {
+      "word": "sch",
+      "count": 10,
+      "documents": 3
+    },
+    {
+      "word": "bermittelten",
+      "count": 10,
+      "documents": 4
+    },
+    {
+      "word": "schutzniveau",
+      "count": 10,
+      "documents": 2
+    },
+    {
+      "word": "ausdr",
+      "count": 10,
+      "documents": 4
+    },
+    {
+      "word": "versand",
+      "count": 10,
+      "documents": 3
+    },
+    {
+      "word": "verfahren",
+      "count": 10,
+      "documents": 3
+    },
+    {
+      "word": "statistische",
+      "count": 10,
+      "documents": 4
+    },
+    {
+      "word": "tigen",
+      "count": 10,
+      "documents": 5
+    },
+    {
+      "word": "ver",
+      "count": 10,
+      "documents": 4
+    },
+    {
+      "word": "auswertung",
+      "count": 10,
+      "documents": 4
+    },
+    {
+      "word": "chrome",
+      "count": 10,
+      "documents": 3
+    },
+    {
+      "word": "tzlich",
+      "count": 10,
+      "documents": 3
+    },
+    {
+      "word": "beachten",
+      "count": 10,
+      "documents": 3
+    },
+    {
+      "word": "funktionalit",
+      "count": 10,
+      "documents": 5
+    },
+    {
+      "word": "weise",
+      "count": 10,
+      "documents": 5
+    },
+    {
+      "word": "zugeordnet",
+      "count": 10,
+      "documents": 5
+    },
+    {
+      "word": "einhaltung",
+      "count": 10,
+      "documents": 3
+    },
+    {
+      "word": "auswertungen",
+      "count": 10,
+      "documents": 3
+    },
+    {
+      "word": "setzt",
+      "count": 10,
+      "documents": 3
+    },
+    {
+      "word": "grand",
+      "count": 10,
+      "documents": 3
+    },
+    {
+      "word": "canal",
+      "count": 10,
+      "documents": 3
+    },
+    {
+      "word": "verbessern",
+      "count": 10,
+      "documents": 5
+    },
+    {
+      "word": "rechtm",
+      "count": 10,
+      "documents": 4
+    },
+    {
+      "word": "igkeit",
+      "count": 10,
+      "documents": 4
+    },
+    {
+      "word": "london",
+      "count": 10,
+      "documents": 3
+    },
+    {
+      "word": "datenverarbeitungsvorg",
+      "count": 10,
+      "documents": 3
+    },
+    {
+      "word": "einschr",
+      "count": 10,
+      "documents": 4
+    },
+    {
+      "word": "nkung",
+      "count": 10,
+      "documents": 4
+    },
+    {
+      "word": "aufsichtsbeh",
+      "count": 10,
+      "documents": 4
+    },
+    {
+      "word": "hamburg",
+      "count": 10,
+      "documents": 5
+    },
+    {
+      "word": "durchf",
+      "count": 10,
+      "documents": 4
+    },
+    {
+      "word": "tag",
+      "count": 10,
+      "documents": 5
+    },
+    {
+      "word": "tasty",
+      "count": 10,
+      "documents": 1
+    },
+    {
+      "word": "netzwerke",
+      "count": 10,
+      "documents": 2
+    },
+    {
+      "word": "insights",
+      "count": 10,
+      "documents": 3
+    },
+    {
+      "word": "spam",
+      "count": 10,
+      "documents": 6
+    },
+    {
+      "word": "gender",
+      "count": 10,
+      "documents": 4
+    },
+    {
+      "word": "geolocation",
+      "count": 10,
+      "documents": 2
+    },
+    {
+      "word": "administrative",
+      "count": 10,
+      "documents": 5
+    },
+    {
+      "word": "integrity",
+      "count": 10,
+      "documents": 7
+    },
+    {
+      "word": "improving",
+      "count": 10,
+      "documents": 6
+    },
+    {
+      "word": "minimum",
+      "count": 10,
+      "documents": 6
+    },
+    {
+      "word": "residence",
+      "count": 10,
+      "documents": 5
+    },
+    {
+      "word": "inaccurate",
+      "count": 10,
+      "documents": 6
+    },
+    {
+      "word": "variety",
+      "count": 10,
+      "documents": 7
+    },
+    {
+      "word": "inquiries",
+      "count": 10,
+      "documents": 5
+    },
+    {
+      "word": "contains",
+      "count": 10,
+      "documents": 6
+    },
+    {
+      "word": "measurement",
+      "count": 10,
+      "documents": 4
+    },
+    {
+      "word": "reflect",
+      "count": 10,
+      "documents": 6
+    },
+    {
+      "word": "clicking",
+      "count": 10,
+      "documents": 4
+    },
+    {
+      "word": "removal",
+      "count": 10,
+      "documents": 4
+    },
+    {
+      "word": "permit",
+      "count": 10,
+      "documents": 5
+    },
+    {
+      "word": "covered",
+      "count": 10,
+      "documents": 6
+    },
+    {
+      "word": "education",
+      "count": 10,
+      "documents": 4
+    },
+    {
+      "word": "violates",
+      "count": 10,
+      "documents": 6
+    },
+    {
+      "word": "artificial",
+      "count": 10,
+      "documents": 5
+    },
+    {
+      "word": "logos",
+      "count": 10,
+      "documents": 5
+    },
+    {
+      "word": "taxes",
+      "count": 10,
+      "documents": 3
+    },
+    {
+      "word": "consequential",
+      "count": 10,
+      "documents": 6
+    },
+    {
+      "word": "city",
+      "count": 10,
+      "documents": 4
+    },
+    {
+      "word": "gmail",
+      "count": 10,
+      "documents": 3
+    },
+    {
+      "word": "vital",
+      "count": 10,
+      "documents": 3
+    },
+    {
+      "word": "reviewing",
+      "count": 10,
+      "documents": 5
+    },
+    {
+      "word": "return",
+      "count": 10,
+      "documents": 4
+    },
+    {
+      "word": "managed",
+      "count": 10,
+      "documents": 4
+    },
+    {
+      "word": "monitor",
+      "count": 10,
+      "documents": 6
+    },
+    {
+      "word": "lawfulness",
+      "count": 10,
+      "documents": 4
+    },
+    {
+      "word": "enter",
+      "count": 10,
+      "documents": 4
+    },
+    {
+      "word": "home",
+      "count": 10,
+      "documents": 2
+    },
+    {
+      "word": "grey",
+      "count": 10,
+      "documents": 1
+    },
+    {
+      "word": "whatsoever",
+      "count": 10,
+      "documents": 4
+    },
+    {
+      "word": "restriction",
+      "count": 10,
+      "documents": 4
+    },
+    {
+      "word": "arbitrator",
+      "count": 10,
+      "documents": 1
+    },
+    {
+      "word": "transferring",
+      "count": 10,
+      "documents": 3
+    },
+    {
+      "word": "sign-on",
+      "count": 10,
+      "documents": 1
+    },
+    {
+      "word": "bodies",
+      "count": 10,
+      "documents": 1
+    },
+    {
+      "word": "relation",
+      "count": 9,
+      "documents": 5
+    },
+    {
+      "word": "personalize",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "voice",
+      "count": 9,
+      "documents": 2
+    },
+    {
+      "word": "recognize",
+      "count": 9,
+      "documents": 6
+    },
+    {
+      "word": "skills",
+      "count": 9,
+      "documents": 2
+    },
+    {
+      "word": "listings",
+      "count": 9,
+      "documents": 3
+    },
+    {
+      "word": "release",
+      "count": 9,
+      "documents": 3
+    },
+    {
+      "word": "useful",
+      "count": 9,
+      "documents": 5
+    },
+    {
+      "word": "visiting",
+      "count": 9,
+      "documents": 5
+    },
+    {
+      "word": "linking",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "subscriptions",
+      "count": 9,
+      "documents": 5
+    },
+    {
+      "word": "kunden",
+      "count": 9,
+      "documents": 3
+    },
+    {
+      "word": "gesetzt",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "besucher",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "europa",
+      "count": 9,
+      "documents": 1
+    },
+    {
+      "word": "daf",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "lediglich",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "darstellung",
+      "count": 9,
+      "documents": 5
+    },
+    {
+      "word": "zeitpunkt",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "betriebssystem",
+      "count": 9,
+      "documents": 5
+    },
+    {
+      "word": "anonymisiert",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "rden",
+      "count": 9,
+      "documents": 5
+    },
+    {
+      "word": "erlauben",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "unternehmen",
+      "count": 9,
+      "documents": 2
+    },
+    {
+      "word": "eingeschr",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "direkte",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "oben",
+      "count": 9,
+      "documents": 5
+    },
+    {
+      "word": "datenschutzstandards",
+      "count": 9,
+      "documents": 3
+    },
+    {
+      "word": "eingesehen",
+      "count": 9,
+      "documents": 2
+    },
+    {
+      "word": "hinweise",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "standardvertragsklauseln",
+      "count": 9,
+      "documents": 3
+    },
+    {
+      "word": "identifizieren",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "besucht",
+      "count": 9,
+      "documents": 3
+    },
+    {
+      "word": "nutzerkonto",
+      "count": 9,
+      "documents": 1
+    },
+    {
+      "word": "registriert",
+      "count": 9,
+      "documents": 2
+    },
+    {
+      "word": "erteilte",
+      "count": 9,
+      "documents": 2
+    },
+    {
+      "word": "angezeigt",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "conversion",
+      "count": 9,
+      "documents": 3
+    },
+    {
+      "word": "custom",
+      "count": 9,
+      "documents": 2
+    },
+    {
+      "word": "ren",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "profil",
+      "count": 9,
+      "documents": 3
+    },
+    {
+      "word": "drittanbietern",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "nutzers",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "datenschutzbestimmungen",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "podcasts",
+      "count": 9,
+      "documents": 3
+    },
+    {
+      "word": "verantwortlichkeit",
+      "count": 9,
+      "documents": 2
+    },
+    {
+      "word": "unlimited",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "wilton",
+      "count": 9,
+      "documents": 3
+    },
+    {
+      "word": "verantwortlichen",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "hinsichtlich",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "bestimmungen",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "bung",
+      "count": 9,
+      "documents": 3
+    },
+    {
+      "word": "ffentlichen",
+      "count": 9,
+      "documents": 5
+    },
+    {
+      "word": "mailing",
+      "count": 9,
+      "documents": 5
+    },
+    {
+      "word": "erdem",
+      "count": 9,
+      "documents": 3
+    },
+    {
+      "word": "francisco",
+      "count": 9,
+      "documents": 6
+    },
+    {
+      "word": "firma",
+      "count": 9,
+      "documents": 1
+    },
+    {
+      "word": "demand",
+      "count": 9,
+      "documents": 5
+    },
+    {
+      "word": "plugins",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "telegram",
+      "count": 9,
+      "documents": 1
+    },
+    {
+      "word": "endeinrichtung",
+      "count": 9,
+      "documents": 1
+    },
+    {
+      "word": "websitebetreiber",
+      "count": 9,
+      "documents": 1
+    },
+    {
+      "word": "previews",
+      "count": 9,
+      "documents": 2
+    },
+    {
+      "word": "de-identified",
+      "count": 9,
+      "documents": 2
+    },
+    {
+      "word": "session",
+      "count": 9,
+      "documents": 2
+    },
+    {
+      "word": "promotions",
+      "count": 9,
+      "documents": 5
+    },
+    {
+      "word": "dot",
+      "count": 9,
+      "documents": 1
+    },
+    {
+      "word": "power",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "profiles",
+      "count": 9,
+      "documents": 5
+    },
+    {
+      "word": "removed",
+      "count": 9,
+      "documents": 7
+    },
+    {
+      "word": "fully",
+      "count": 9,
+      "documents": 6
+    },
+    {
+      "word": "authorization",
+      "count": 9,
+      "documents": 5
+    },
+    {
+      "word": "preview",
+      "count": 9,
+      "documents": 1
+    },
+    {
+      "word": "sanctions",
+      "count": 9,
+      "documents": 3
+    },
+    {
+      "word": "licenses",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "waive",
+      "count": 9,
+      "documents": 3
+    },
+    {
+      "word": "model",
+      "count": 9,
+      "documents": 3
+    },
+    {
+      "word": "refunds",
+      "count": 9,
+      "documents": 3
+    },
+    {
+      "word": "actual",
+      "count": 9,
+      "documents": 6
+    },
+    {
+      "word": "expenses",
+      "count": 9,
+      "documents": 3
+    },
+    {
+      "word": "governmental",
+      "count": 9,
+      "documents": 6
+    },
+    {
+      "word": "regulation",
+      "count": 9,
+      "documents": 7
+    },
+    {
+      "word": "fitness",
+      "count": 9,
+      "documents": 7
+    },
+    {
+      "word": "defense",
+      "count": 9,
+      "documents": 3
+    },
+    {
+      "word": "transparency",
+      "count": 9,
+      "documents": 5
+    },
+    {
+      "word": "doesn",
+      "count": 9,
+      "documents": 2
+    },
+    {
+      "word": "turn",
+      "count": 9,
+      "documents": 5
+    },
+    {
+      "word": "brand",
+      "count": 9,
+      "documents": 2
+    },
+    {
+      "word": "engagement",
+      "count": 9,
+      "documents": 3
+    },
+    {
+      "word": "generated",
+      "count": 9,
+      "documents": 5
+    },
+    {
+      "word": "anonymized",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "birth",
+      "count": 9,
+      "documents": 2
+    },
+    {
+      "word": "alias",
+      "count": 9,
+      "documents": 2
+    },
+    {
+      "word": "employment",
+      "count": 9,
+      "documents": 3
+    },
+    {
+      "word": "submitting",
+      "count": 9,
+      "documents": 5
+    },
+    {
+      "word": "suspicious",
+      "count": 9,
+      "documents": 3
+    },
+    {
+      "word": "deemed",
+      "count": 9,
+      "documents": 3
+    },
+    {
+      "word": "checks",
+      "count": 9,
+      "documents": 2
+    },
+    {
+      "word": "assigned",
+      "count": 9,
+      "documents": 2
+    },
+    {
+      "word": "supervisory",
+      "count": 9,
+      "documents": 2
+    },
+    {
+      "word": "completing",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "stores",
+      "count": 8,
+      "documents": 3
+    },
+    {
+      "word": "interest-based",
+      "count": 8,
+      "documents": 3
+    },
+    {
+      "word": "course",
+      "count": 8,
+      "documents": 5
+    },
+    {
+      "word": "configure",
+      "count": 8,
+      "documents": 3
+    },
+    {
+      "word": "views",
+      "count": 8,
+      "documents": 5
+    },
+    {
+      "word": "cart",
+      "count": 8,
+      "documents": 4
+    },
+    {
+      "word": "carrier",
+      "count": 8,
+      "documents": 5
+    },
+    {
+      "word": "author",
+      "count": 8,
+      "documents": 2
+    },
+    {
+      "word": "guardian",
+      "count": 8,
+      "documents": 4
+    },
+    {
+      "word": "knowingly",
+      "count": 8,
+      "documents": 6
+    },
+    {
+      "word": "protocol",
+      "count": 8,
+      "documents": 6
+    },
+    {
+      "word": "top",
+      "count": 8,
+      "documents": 8
+    },
+    {
+      "word": "neburg",
+      "count": 8,
+      "documents": 3
+    },
+    {
+      "word": "erfolgen",
+      "count": 8,
+      "documents": 4
+    },
+    {
+      "word": "dient",
+      "count": 8,
+      "documents": 4
+    },
+    {
+      "word": "dienstleister",
+      "count": 8,
+      "documents": 3
+    },
+    {
+      "word": "auftragsverarbeitungsvertrag",
+      "count": 8,
+      "documents": 2
+    },
+    {
+      "word": "tzen",
+      "count": 8,
+      "documents": 2
+    },
+    {
+      "word": "weiterzugeben",
+      "count": 8,
+      "documents": 2
+    },
+    {
+      "word": "falle",
+      "count": 8,
+      "documents": 3
+    },
+    {
+      "word": "sitz",
+      "count": 8,
+      "documents": 3
+    },
+    {
+      "word": "marketing-",
+      "count": 8,
+      "documents": 1
+    },
+    {
+      "word": "optimieren",
+      "count": 8,
+      "documents": 4
+    },
+    {
+      "word": "erreichung",
+      "count": 8,
+      "documents": 2
+    },
+    {
+      "word": "vereinbart",
+      "count": 8,
+      "documents": 1
+    },
+    {
+      "word": "campaigns",
+      "count": 8,
+      "documents": 4
+    },
+    {
+      "word": "inhalt",
+      "count": 8,
+      "documents": 4
+    },
+    {
+      "word": "notwendig",
+      "count": 8,
+      "documents": 4
+    },
+    {
+      "word": "bezug",
+      "count": 8,
+      "documents": 2
+    },
+    {
+      "word": "einzelnen",
+      "count": 8,
+      "documents": 3
+    },
+    {
+      "word": "kleine",
+      "count": 8,
+      "documents": 4
+    },
+    {
+      "word": "besuchs",
+      "count": 8,
+      "documents": 4
+    },
+    {
+      "word": "solche",
+      "count": 8,
+      "documents": 2
+    },
+    {
+      "word": "einstellen",
+      "count": 8,
+      "documents": 4
+    },
+    {
+      "word": "cookie-einstellungen",
+      "count": 8,
+      "documents": 2
+    },
+    {
+      "word": "nkt",
+      "count": 8,
+      "documents": 4
+    },
+    {
+      "word": "ndern",
+      "count": 8,
+      "documents": 4
+    },
+    {
+      "word": "footer",
+      "count": 8,
+      "documents": 4
+    },
+    {
+      "word": "unten",
+      "count": 8,
+      "documents": 2
+    },
+    {
+      "word": "nlich",
+      "count": 8,
+      "documents": 3
+    },
+    {
+      "word": "drittland",
+      "count": 8,
+      "documents": 2
+    },
+    {
+      "word": "werbema",
+      "count": 8,
+      "documents": 3
+    },
+    {
+      "word": "pro",
+      "count": 8,
+      "documents": 3
+    },
+    {
+      "word": "aufgerufen",
+      "count": 8,
+      "documents": 3
+    },
+    {
+      "word": "remarketing",
+      "count": 8,
+      "documents": 2
+    },
+    {
+      "word": "adwords",
+      "count": 8,
+      "documents": 2
+    },
+    {
+      "word": "doubleclick",
+      "count": 8,
+      "documents": 3
+    },
+    {
+      "word": "pft",
+      "count": 8,
+      "documents": 2
+    },
+    {
+      "word": "nutzerverhaltens",
+      "count": 8,
+      "documents": 3
+    },
+    {
+      "word": "audiences",
+      "count": 8,
+      "documents": 2
+    },
+    {
+      "word": "internetauftritts",
+      "count": 8,
+      "documents": 2
+    },
+    {
+      "word": "bing",
+      "count": 8,
+      "documents": 2
+    },
+    {
+      "word": "statistischen",
+      "count": 8,
+      "documents": 3
+    }
+  ],
+  "bigrams": [
+    {
+      "word": "personal data",
+      "count": 440,
+      "documents": 10
+    },
+    {
+      "word": "personal information",
+      "count": 207,
+      "documents": 13
+    },
+    {
+      "word": "personenbezogenen daten",
+      "count": 91,
+      "documents": 5
+    },
+    {
+      "word": "data protection",
+      "count": 75,
+      "documents": 9
+    },
+    {
+      "word": "window tab",
+      "count": 63,
+      "documents": 1
+    },
+    {
+      "word": "applicable law",
+      "count": 60,
+      "documents": 12
+    },
+    {
+      "word": "data privacy",
+      "count": 57,
+      "documents": 7
+    },
+    {
+      "word": "privacy framework",
+      "count": 41,
+      "documents": 6
+    },
+    {
+      "word": "intellectual property",
+      "count": 38,
+      "documents": 7
+    },
+    {
+      "word": "information collect",
+      "count": 36,
+      "documents": 7
+    },
+    {
+      "word": "legitimate interest",
+      "count": 33,
+      "documents": 3
+    },
+    {
+      "word": "processing based",
+      "count": 31,
+      "documents": 4
+    },
+    {
+      "word": "legal obligations",
+      "count": 29,
+      "documents": 9
+    },
+    {
+      "word": "legitimate interests",
+      "count": 27,
+      "documents": 5
+    },
+    {
+      "word": "credit card",
+      "count": 26,
+      "documents": 8
+    },
+    {
+      "word": "personenbezogene daten",
+      "count": 26,
+      "documents": 5
+    },
+    {
+      "word": "social media",
+      "count": 26,
+      "documents": 10
+    },
+    {
+      "word": "data collect",
+      "count": 26,
+      "documents": 7
+    },
+    {
+      "word": "personenbezogener daten",
+      "count": 23,
+      "documents": 4
+    },
+    {
+      "word": "contact information",
+      "count": 23,
+      "documents": 6
+    },
+    {
+      "word": "collect information",
+      "count": 22,
+      "documents": 7
+    },
+    {
+      "word": "privacy rights",
+      "count": 22,
+      "documents": 6
+    },
+    {
+      "word": "sole discretion",
+      "count": 22,
+      "documents": 5
+    },
+    {
+      "word": "nutzer innen",
+      "count": 20,
+      "documents": 2
+    },
+    {
+      "word": "data collected",
+      "count": 20,
+      "documents": 5
+    },
+    {
+      "word": "location data",
+      "count": 20,
+      "documents": 3
+    },
+    {
+      "word": "permitted applicable",
+      "count": 20,
+      "documents": 3
+    },
+    {
+      "word": "property rights",
+      "count": 19,
+      "documents": 6
+    },
+    {
+      "word": "share personal",
+      "count": 18,
+      "documents": 7
+    },
+    {
+      "word": "law enforcement",
+      "count": 18,
+      "documents": 8
+    },
+    {
+      "word": "processing personal",
+      "count": 18,
+      "documents": 5
+    },
+    {
+      "word": "information collected",
+      "count": 17,
+      "documents": 6
+    },
+    {
+      "word": "informationen zum",
+      "count": 17,
+      "documents": 5
+    },
+    {
+      "word": "zum datenschutz",
+      "count": 17,
+      "documents": 5
+    },
+    {
+      "word": "information please",
+      "count": 16,
+      "documents": 7
+    },
+    {
+      "word": "please contact",
+      "count": 16,
+      "documents": 7
+    },
+    {
+      "word": "collect personal",
+      "count": 16,
+      "documents": 5
+    },
+    {
+      "word": "berechtigtes interesse",
+      "count": 15,
+      "documents": 3
+    },
+    {
+      "word": "precise location",
+      "count": 15,
+      "documents": 3
+    },
+    {
+      "word": "unauthorized access",
+      "count": 14,
+      "documents": 7
+    },
+    {
+      "word": "please visit",
+      "count": 14,
+      "documents": 7
+    },
+    {
+      "word": "non-essential cookies",
+      "count": 14,
+      "documents": 1
+    },
+    {
+      "word": "private repositories",
+      "count": 14,
+      "documents": 2
+    },
+    {
+      "word": "data processing",
+      "count": 14,
+      "documents": 5
+    },
+    {
+      "word": "data transfers",
+      "count": 14,
+      "documents": 3
+    },
+    {
+      "word": "direct marketing",
+      "count": 14,
+      "documents": 5
+    },
+    {
+      "word": "protection laws",
+      "count": 14,
+      "documents": 4
+    },
+    {
+      "word": "privacy disclosures",
+      "count": 13,
+      "documents": 3
+    },
+    {
+      "word": "payment information",
+      "count": 13,
+      "documents": 8
+    },
+    {
+      "word": "schutzmechanismen erforderlich",
+      "count": 13,
+      "documents": 1
+    },
+    {
+      "word": "share information",
+      "count": 13,
+      "documents": 5
+    },
+    {
+      "word": "applicable laws",
+      "count": 13,
+      "documents": 8
+    },
+    {
+      "word": "fundamental rights",
+      "count": 13,
+      "documents": 5
+    },
+    {
+      "word": "photo video",
+      "count": 13,
+      "documents": 2
+    },
+    {
+      "word": "personalized ads",
+      "count": 13,
+      "documents": 3
+    },
+    {
+      "word": "communication preferences",
+      "count": 12,
+      "documents": 4
+    },
+    {
+      "word": "social security",
+      "count": 12,
+      "documents": 3
+    },
+    {
+      "word": "informationen zur",
+      "count": 12,
+      "documents": 3
+    },
+    {
+      "word": "jederzeit widerrufen",
+      "count": 12,
+      "documents": 4
+    },
+    {
+      "word": "legal obligation",
+      "count": 12,
+      "documents": 3
+    },
+    {
+      "word": "rights data",
+      "count": 12,
+      "documents": 2
+    },
+    {
+      "word": "data processors",
+      "count": 12,
+      "documents": 3
+    },
+    {
+      "word": "credit agencies",
+      "count": 12,
+      "documents": 1
+    },
+    {
+      "word": "government agencies",
+      "count": 12,
+      "documents": 1
+    },
+    {
+      "word": "erhobenen daten",
+      "count": 11,
+      "documents": 4
+    },
+    {
+      "word": "please review",
+      "count": 11,
+      "documents": 4
+    },
+    {
+      "word": "collect data",
+      "count": 11,
+      "documents": 6
+    },
+    {
+      "word": "legal claims",
+      "count": 11,
+      "documents": 3
+    },
+    {
+      "word": "further information",
+      "count": 11,
+      "documents": 2
+    },
+    {
+      "word": "confidential information",
+      "count": 11,
+      "documents": 2
+    },
+    {
+      "word": "information data",
+      "count": 11,
+      "documents": 3
+    },
+    {
+      "word": "data connection",
+      "count": 11,
+      "documents": 2
+    },
+    {
+      "word": "marketing communications",
+      "count": 11,
+      "documents": 4
+    },
+    {
+      "word": "interests fundamental",
+      "count": 11,
+      "documents": 3
+    },
+    {
+      "word": "personalized advertising",
+      "count": 10,
+      "documents": 5
+    },
+    {
+      "word": "financial information",
+      "count": 10,
+      "documents": 3
+    },
+    {
+      "word": "nicht dritte",
+      "count": 10,
+      "documents": 3
+    },
+    {
+      "word": "ben tigen",
+      "count": 10,
+      "documents": 5
+    },
+    {
+      "word": "zum zwecke",
+      "count": 10,
+      "documents": 3
+    },
+    {
+      "word": "grand canal",
+      "count": 10,
+      "documents": 3
+    },
+    {
+      "word": "rechtm igkeit",
+      "count": 10,
+      "documents": 4
+    },
+    {
+      "word": "datenverarbeitungsvorg nge",
+      "count": 10,
+      "documents": 3
+    },
+    {
+      "word": "einschr nkung",
+      "count": 10,
+      "documents": 4
+    },
+    {
+      "word": "aufsichtsbeh rde",
+      "count": 10,
+      "documents": 4
+    },
+    {
+      "word": "daten verlangen",
+      "count": 10,
+      "documents": 5
+    },
+    {
+      "word": "data processed",
+      "count": 10,
+      "documents": 3
+    },
+    {
+      "word": "information provided",
+      "count": 10,
+      "documents": 6
+    },
+    {
+      "word": "artificial intelligence",
+      "count": 10,
+      "documents": 5
+    },
+    {
+      "word": "designated countries",
+      "count": 10,
+      "documents": 1
+    },
+    {
+      "word": "based consent",
+      "count": 10,
+      "documents": 4
+    },
+    {
+      "word": "agencies bureaus",
+      "count": 10,
+      "documents": 1
+    },
+    {
+      "word": "judicial proceedings",
+      "count": 10,
+      "documents": 1
+    },
+    {
+      "word": "statutory obligation",
+      "count": 10,
+      "documents": 1
+    },
+    {
+      "word": "receive information",
+      "count": 9,
+      "documents": 5
+    },
+    {
+      "word": "fraud prevention",
+      "count": 9,
+      "documents": 5
+    },
+    {
+      "word": "access personal",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "name address",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "information receive",
+      "count": 9,
+      "documents": 5
+    },
+    {
+      "word": "daten entsprechend",
+      "count": 9,
+      "documents": 1
+    },
+    {
+      "word": "schutzniveau europa",
+      "count": 9,
+      "documents": 1
+    },
+    {
+      "word": "europa verarbeiten",
+      "count": 9,
+      "documents": 1
+    },
+    {
+      "word": "erfassten daten",
+      "count": 9,
+      "documents": 4
+    },
+    {
+      "word": "erteilte einwilligung",
+      "count": 9,
+      "documents": 2
+    },
+    {
+      "word": "data controller",
+      "count": 9,
+      "documents": 5
+    },
+    {
+      "word": "tracking technologies",
+      "count": 9,
+      "documents": 3
+    },
+    {
+      "word": "dot com",
+      "count": 9,
+      "documents": 1
+    },
+    {
+      "word": "ads based",
+      "count": 9,
+      "documents": 2
+    },
+    {
+      "word": "beta preview",
+      "count": 9,
+      "documents": 1
+    },
+    {
+      "word": "solely responsible",
+      "count": 9,
+      "documents": 5
+    },
+    {
+      "word": "com legal",
+      "count": 9,
+      "documents": 1
+    },
+    {
+      "word": "legal privacy",
+      "count": 9,
+      "documents": 1
+    },
+    {
+      "word": "data relating",
+      "count": 9,
+      "documents": 2
+    },
+    {
+      "word": "vital interests",
+      "count": 9,
+      "documents": 2
+    },
+    {
+      "word": "enforcement agencies",
+      "count": 9,
+      "documents": 2
+    },
+    {
+      "word": "supervisory authority",
+      "count": 9,
+      "documents": 2
+    },
+    {
+      "word": "unique identifiers",
+      "count": 8,
+      "documents": 2
+    },
+    {
+      "word": "rights property",
+      "count": 8,
+      "documents": 6
+    },
+    {
+      "word": "advertising preferences",
+      "count": 8,
+      "documents": 3
+    },
+    {
+      "word": "provide information",
+      "count": 8,
+      "documents": 5
+    },
+    {
+      "word": "provide data",
+      "count": 8,
+      "documents": 4
+    },
+    {
+      "word": "location information",
+      "count": 8,
+      "documents": 3
+    },
+    {
+      "word": "dritte weiterzugeben",
+      "count": 8,
+      "documents": 2
+    },
+    {
+      "word": "endger gespeichert",
+      "count": 8,
+      "documents": 5
+    },
+    {
+      "word": "bitte beachten",
+      "count": 8,
+      "documents": 3
+    },
+    {
+      "word": "pers nlich",
+      "count": 8,
+      "documents": 3
+    },
+    {
+      "word": "verkn pft",
+      "count": 8,
+      "documents": 2
+    },
+    {
+      "word": "custom audiences",
+      "count": 8,
+      "documents": 2
+    },
+    {
+      "word": "daten zur",
+      "count": 8,
+      "documents": 5
+    },
+    {
+      "word": "einwilligung art",
+      "count": 8,
+      "documents": 3
+    },
+    {
+      "word": "privacy practices",
+      "count": 8,
+      "documents": 4
+    },
+    {
+      "word": "usage data",
+      "count": 8,
+      "documents": 4
+    },
+    {
+      "word": "legal requirements",
+      "count": 8,
+      "documents": 6
+    },
+    {
+      "word": "data received",
+      "count": 8,
+      "documents": 3
+    },
+    {
+      "word": "dispute resolution",
+      "count": 8,
+      "documents": 5
+    },
+    {
+      "word": "beta previews",
+      "count": 8,
+      "documents": 1
+    },
+    {
+      "word": "someone else",
+      "count": 8,
+      "documents": 4
+    },
+    {
+      "word": "privacy contact",
+      "count": 8,
+      "documents": 2
+    },
+    {
+      "word": "sales tax",
+      "count": 8,
+      "documents": 1
+    },
+    {
+      "word": "interests carry",
+      "count": 8,
+      "documents": 1
+    },
+    {
+      "word": "interest assessments",
+      "count": 8,
+      "documents": 1
+    },
+    {
+      "word": "ratings reviews",
+      "count": 8,
+      "documents": 1
+    },
+    {
+      "word": "restriction processing",
+      "count": 8,
+      "documents": 2
+    },
+    {
+      "word": "privacy center",
+      "count": 8,
+      "documents": 1
+    },
+    {
+      "word": "tax identification",
+      "count": 8,
+      "documents": 1
+    },
+    {
+      "word": "affiliates external",
+      "count": 8,
+      "documents": 1
+    },
+    {
+      "word": "authorities intergovernmental",
+      "count": 8,
+      "documents": 1
+    },
+    {
+      "word": "intergovernmental supranational",
+      "count": 8,
+      "documents": 1
+    },
+    {
+      "word": "supranational bodies",
+      "count": 8,
+      "documents": 1
+    },
+    {
+      "word": "order provide",
+      "count": 7,
+      "documents": 6
+    },
+    {
+      "word": "information related",
+      "count": 7,
+      "documents": 5
+    },
+    {
+      "word": "payment card",
+      "count": 7,
+      "documents": 4
+    },
+    {
+      "word": "data security",
+      "count": 7,
+      "documents": 3
+    },
+    {
+      "word": "loss data",
+      "count": 7,
+      "documents": 5
+    },
+    {
+      "word": "information like",
+      "count": 7,
+      "documents": 2
+    },
+    {
+      "word": "browsing history",
+      "count": 7,
+      "documents": 5
+    },
+    {
+      "word": "sch tzen",
+      "count": 7,
+      "documents": 2
+    },
+    {
+      "word": "erhebung nicht",
+      "count": 7,
+      "documents": 2
+    },
+    {
+      "word": "berechtigten interessen",
+      "count": 7,
+      "documents": 2
+    },
+    {
+      "word": "eingeschr nkt",
+      "count": 7,
+      "documents": 4
+    },
+    {
+      "word": "kein angemessenheitsbeschluss",
+      "count": 7,
+      "documents": 2
+    },
+    {
+      "word": "eu-kommission besteht",
+      "count": 7,
+      "documents": 2
+    },
+    {
+      "word": "gemeinsame verantwortlichkeit",
+      "count": 7,
+      "documents": 2
+    },
+    {
+      "word": "rechtsanspr chen",
+      "count": 7,
+      "documents": 3
+    },
+    {
+      "word": "daten verarbeitet",
+      "count": 7,
+      "documents": 3
+    },
+    {
+      "word": "daten erfolgt",
+      "count": 7,
+      "documents": 2
+    },
+    {
+      "word": "betreffenden personenbezogenen",
+      "count": 7,
+      "documents": 2
+    },
+    {
+      "word": "geolocation data",
+      "count": 7,
+      "documents": 2
+    },
+    {
+      "word": "transfer personal",
+      "count": 7,
+      "documents": 5
+    },
+    {
+      "word": "targeted advertising",
+      "count": 7,
+      "documents": 3
+    },
+    {
+      "word": "law regulation",
+      "count": 7,
+      "documents": 5
+    },
+    {
+      "word": "express implied",
+      "count": 7,
+      "documents": 5
+    },
+    {
+      "word": "lodge complaint",
+      "count": 7,
+      "documents": 2
+    },
+    {
+      "word": "sensitive personal",
+      "count": 7,
+      "documents": 4
+    },
+    {
+      "word": "regional privacy",
+      "count": 7,
+      "documents": 2
+    },
+    {
+      "word": "data retention",
+      "count": 7,
+      "documents": 4
+    },
+    {
+      "word": "address telephone",
+      "count": 7,
+      "documents": 3
+    },
+    {
+      "word": "consent prior",
+      "count": 7,
+      "documents": 2
+    },
+    {
+      "word": "data accordance",
+      "count": 7,
+      "documents": 2
+    },
+    {
+      "word": "applicable data",
+      "count": 7,
+      "documents": 2
+    },
+    {
+      "word": "beta offerings",
+      "count": 7,
+      "documents": 1
+    },
+    {
+      "word": "related preferences",
+      "count": 7,
+      "documents": 1
+    },
+    {
+      "word": "information order",
+      "count": 6,
+      "documents": 3
+    },
+    {
+      "word": "disclose personal",
+      "count": 6,
+      "documents": 3
+    },
+    {
+      "word": "third-party advertising",
+      "count": 6,
+      "documents": 2
+    },
+    {
+      "word": "protocol address",
+      "count": 6,
+      "documents": 4
+    },
+    {
+      "word": "card information",
+      "count": 6,
+      "documents": 4
+    },
+    {
+      "word": "zum schutz",
+      "count": 6,
+      "documents": 3
+    },
+    {
+      "word": "ausdr cklich",
+      "count": 6,
+      "documents": 4
+    },
+    {
+      "word": "framework zertifiziert",
+      "count": 6,
+      "documents": 1
+    },
+    {
+      "word": "einhaltung angemessener",
+      "count": 6,
+      "documents": 1
+    },
+    {
+      "word": "angemessener datenschutzstandards",
+      "count": 6,
+      "documents": 1
+    },
+    {
+      "word": "canal square",
+      "count": 6,
+      "documents": 3
+    },
+    {
+      "word": "eingegebenen daten",
+      "count": 6,
+      "documents": 2
+    },
+    {
+      "word": "einwilligung jederzeit",
+      "count": 6,
+      "documents": 3
+    },
+    {
+      "word": "zum widerruf",
+      "count": 6,
+      "documents": 4
+    },
+    {
+      "word": "daten bertragbarkeit",
+      "count": 6,
+      "documents": 4
+    },
+    {
+      "word": "zukunft widerrufen",
+      "count": 6,
+      "documents": 3
+    },
+    {
+      "word": "zur durchf",
+      "count": 6,
+      "documents": 3
+    },
+    {
+      "word": "angemessenes datenschutzniveau",
+      "count": 6,
+      "documents": 1
+    },
+    {
+      "word": "zur geltendmachung",
+      "count": 6,
+      "documents": 3
+    },
+    {
+      "word": "zur analyse",
+      "count": 6,
+      "documents": 3
+    },
+    {
+      "word": "sozialen netzwerke",
+      "count": 6,
+      "documents": 2
+    },
+    {
+      "word": "grunds tzlich",
+      "count": 6,
+      "documents": 1
+    },
+    {
+      "word": "demographic information",
+      "count": 6,
+      "documents": 3
+    },
+    {
+      "word": "billing address",
+      "count": 6,
+      "documents": 4
+    },
+    {
+      "word": "sharing personal",
+      "count": 6,
+      "documents": 4
+    },
+    {
+      "word": "prevent fraud",
+      "count": 6,
+      "documents": 4
+    },
+    {
+      "word": "publicly accessible",
+      "count": 6,
+      "documents": 4
+    },
+    {
+      "word": "legal rights",
+      "count": 6,
+      "documents": 3
+    },
+    {
+      "word": "handling personal",
+      "count": 6,
+      "documents": 4
+    },
+    {
+      "word": "binding arbitration",
+      "count": 6,
+      "documents": 5
+    },
+    {
+      "word": "request information",
+      "count": 6,
+      "documents": 5
+    },
+    {
+      "word": "copyright infringement",
+      "count": 6,
+      "documents": 3
+    },
+    {
+      "word": "loss profits",
+      "count": 6,
+      "documents": 5
+    },
+    {
+      "word": "aggregated data",
+      "count": 6,
+      "documents": 4
+    },
+    {
+      "word": "data data",
+      "count": 6,
+      "documents": 4
+    },
+    {
+      "word": "choose share",
+      "count": 6,
+      "documents": 4
+    },
+    {
+      "word": "disclose information",
+      "count": 6,
+      "documents": 3
+    },
+    {
+      "word": "visible others",
+      "count": 6,
+      "documents": 2
+    },
+    {
+      "word": "cross-border data",
+      "count": 6,
+      "documents": 2
+    },
+    {
+      "word": "payment processing",
+      "count": 6,
+      "documents": 4
+    },
+    {
+      "word": "payment processor",
+      "count": 6,
+      "documents": 3
+    },
+    {
+      "word": "structure ownership",
+      "count": 6,
+      "documents": 1
+    },
+    {
+      "word": "debit card",
+      "count": 6,
+      "documents": 3
+    },
+    {
+      "word": "consumer protection",
+      "count": 6,
+      "documents": 3
+    },
+    {
+      "word": "information collection",
+      "count": 6,
+      "documents": 3
+    },
+    {
+      "word": "termsenterprise developer",
+      "count": 6,
+      "documents": 2
+    },
+    {
+      "word": "termspartner promotion",
+      "count": 6,
+      "documents": 2
+    },
+    {
+      "word": "inquiresbrand guidelinessupply",
+      "count": 6,
+      "documents": 2
+    },
+    {
+      "word": "guidelinessupply storeprivacy",
+      "count": 6,
+      "documents": 2
+    },
+    {
+      "word": "storeprivacy policysecurityterms",
+      "count": 6,
+      "documents": 2
+    },
+    {
+      "word": "startedhelp centerchangeloggive",
+      "count": 6,
+      "documents": 2
+    },
+    {
+      "word": "centerchangeloggive feedbackapi",
+      "count": 6,
+      "documents": 2
+    },
+    {
+      "word": "feedbackapi platformapi",
+      "count": 6,
+      "documents": 2
+    },
+    {
+      "word": "platformapi overviewapi",
+      "count": 6,
+      "documents": 2
+    },
+    {
+      "word": "overviewapi modelsapi",
+      "count": 6,
+      "documents": 2
+    },
+    {
+      "word": "modelsapi documentationapi",
+      "count": 6,
+      "documents": 2
+    },
+    {
+      "word": "documentationapi faqsapi",
+      "count": 6,
+      "documents": 2
+    },
+    {
+      "word": "servicefollow usx",
+      "count": 6,
+      "documents": 2
+    },
+    {
+      "word": "discordinstagramthreadslinkedinyoutube copyright",
+      "count": 6,
+      "documents": 2
+    },
+    {
+      "word": "completing transaction",
+      "count": 6,
+      "documents": 2
+    },
+    {
+      "word": "third-party materials",
+      "count": 6,
+      "documents": 1
+    },
+    {
+      "word": "protection principles",
+      "count": 6,
+      "documents": 1
+    },
+    {
+      "word": "bids purchases",
+      "count": 6,
+      "documents": 1
+    },
+    {
+      "word": "tracking information",
+      "count": 6,
+      "documents": 1
+    },
+    {
+      "word": "data address",
+      "count": 6,
+      "documents": 1
+    },
+    {
+      "word": "manage disable",
+      "count": 6,
+      "documents": 1
+    },
+    {
+      "word": "data order",
+      "count": 6,
+      "documents": 1
+    },
+    {
+      "word": "prevention detection",
+      "count": 6,
+      "documents": 1
+    },
+    {
+      "word": "agencies courts",
+      "count": 6,
+      "documents": 1
+    },
+    {
+      "word": "courts government",
+      "count": 6,
+      "documents": 1
+    },
+    {
+      "word": "vero program",
+      "count": 6,
+      "documents": 1
+    },
+    {
+      "word": "proact program",
+      "count": 6,
+      "documents": 1
+    },
+    {
+      "word": "involved judicial",
+      "count": 6,
+      "documents": 1
+    },
+    {
+      "word": "eu-us data",
+      "count": 5,
+      "documents": 1
+    },
+    {
+      "word": "interest-based ads",
+      "count": 5,
+      "documents": 1
+    },
+    {
+      "word": "information information",
+      "count": 5,
+      "documents": 3
+    },
+    {
+      "word": "privacy choices",
+      "count": 5,
+      "documents": 2
+    },
+    {
+      "word": "purchase history",
+      "count": 5,
+      "documents": 2
+    },
+    {
+      "word": "parent guardian",
+      "count": 5,
+      "documents": 3
+    },
+    {
+      "word": "knowingly collect",
+      "count": 5,
+      "documents": 4
+    },
+    {
+      "word": "information credit",
+      "count": 5,
+      "documents": 2
+    },
+    {
+      "word": "verarbeitung personenbezogener",
+      "count": 5,
+      "documents": 2
+    },
+    {
+      "word": "kunden sch",
+      "count": 5,
+      "documents": 1
+    },
+    {
+      "word": "daten erhoben",
+      "count": 5,
+      "documents": 2
+    },
+    {
+      "word": "anbieter standarddatenschutzklauseln",
+      "count": 5,
+      "documents": 1
+    },
+    {
+      "word": "kleine textdateien",
+      "count": 5,
+      "documents": 3
+    },
+    {
+      "word": "berechtigten interesses",
+      "count": 5,
+      "documents": 2
+    },
+    {
+      "word": "einwilligung erteilt",
+      "count": 5,
+      "documents": 2
+    },
+    {
+      "word": "zum umgang",
+      "count": 5,
+      "documents": 2
+    },
+    {
+      "word": "nlich identifizieren",
+      "count": 5,
+      "documents": 3
+    },
+    {
+      "word": "anzeige geklickt",
+      "count": 5,
+      "documents": 2
+    },
+    {
+      "word": "beim besuch",
+      "count": 5,
+      "documents": 3
+    },
+    {
+      "word": "bermittelten daten",
+      "count": 5,
+      "documents": 2
+    },
+    {
+      "word": "berichtigung schung",
+      "count": 5,
+      "documents": 3
+    },
+    {
+      "word": "besch ftigungsverh",
+      "count": 5,
+      "documents": 1
+    },
+    {
+      "word": "einwilligung zur",
+      "count": 5,
+      "documents": 3
+    },
+    {
+      "word": "daten nicht",
+      "count": 5,
+      "documents": 3
+    },
+    {
+      "word": "vollst ndig",
+      "count": 5,
+      "documents": 2
+    },
+    {
+      "word": "deren nutzung",
+      "count": 5,
+      "documents": 2
+    },
+    {
+      "word": "cookie gespeichert",
+      "count": 5,
+      "documents": 1
+    },
+    {
+      "word": "cookie-einstellungen seitenende",
+      "count": 5,
+      "documents": 1
+    },
+    {
+      "word": "vom widerruf",
+      "count": 5,
+      "documents": 1
+    },
+    {
+      "word": "widerruf unber",
+      "count": 5,
+      "documents": 1
+    },
+    {
+      "word": "please refer",
+      "count": 5,
+      "documents": 3
+    },
+    {
+      "word": "please aware",
+      "count": 5,
+      "documents": 3
+    },
+    {
+      "word": "cookies provide",
+      "count": 5,
+      "documents": 3
+    },
+    {
+      "word": "enterprise marketing",
+      "count": 5,
+      "documents": 1
+    },
+    {
+      "word": "store information",
+      "count": 5,
+      "documents": 5
+    },
+    {
+      "word": "global privacy",
+      "count": 5,
+      "documents": 3
+    },
+    {
+      "word": "request deletion",
+      "count": 5,
+      "documents": 5
+    },
+    {
+      "word": "information payment",
+      "count": 5,
+      "documents": 3
+    },
+    {
+      "word": "inferences drawn",
+      "count": 5,
+      "documents": 2
+    },
+    {
+      "word": "authorized agent",
+      "count": 5,
+      "documents": 4
+    },
+    {
+      "word": "information associated",
+      "count": 5,
+      "documents": 2
+    },
+    {
+      "word": "damages losses",
+      "count": 5,
+      "documents": 3
+    },
+    {
+      "word": "losses arising",
+      "count": 5,
+      "documents": 3
+    },
+    {
+      "word": "copyright trademark",
+      "count": 5,
+      "documents": 3
+    },
+    {
+      "word": "data information",
+      "count": 5,
+      "documents": 4
+    },
+    {
+      "word": "limitations liability",
+      "count": 5,
+      "documents": 3
+    },
+    {
+      "word": "merchantability fitness",
+      "count": 5,
+      "documents": 4
+    },
+    {
+      "word": "injunctive relief",
+      "count": 5,
+      "documents": 2
+    },
+    {
+      "word": "abuse harm",
+      "count": 5,
+      "documents": 2
+    },
+    {
+      "word": "privacy security",
+      "count": 5,
+      "documents": 3
+    },
+    {
+      "word": "republic china",
+      "count": 5,
+      "documents": 2
+    },
+    {
+      "word": "countries outside",
+      "count": 5,
+      "documents": 3
+    },
+    {
+      "word": "billing information",
+      "count": 5,
+      "documents": 4
+    },
+    {
+      "word": "cookie ids",
+      "count": 5,
+      "documents": 3
+    },
+    {
+      "word": "data provide",
+      "count": 5,
+      "documents": 2
+    },
+    {
+      "word": "push notifications",
+      "count": 5,
+      "documents": 3
+    },
+    {
+      "word": "data longer",
+      "count": 5,
+      "documents": 2
+    },
+    {
+      "word": "track signals",
+      "count": 5,
+      "documents": 3
+    },
+    {
+      "word": "provide personal",
+      "count": 5,
+      "documents": 3
+    },
+    {
+      "word": "collect automatically",
+      "count": 5,
+      "documents": 2
+    },
+    {
+      "word": "mailing address",
+      "count": 5,
+      "documents": 2
+    },
+    {
+      "word": "e-mail address",
+      "count": 5,
+      "documents": 3
+    },
+    {
+      "word": "community discussions",
+      "count": 5,
+      "documents": 2
+    },
+    {
+      "word": "advertising analytics",
+      "count": 5,
+      "documents": 1
+    },
+    {
+      "word": "age sixteen",
+      "count": 5,
+      "documents": 1
+    },
+    {
+      "word": "zip code",
+      "count": 5,
+      "documents": 2
+    },
+    {
+      "word": "consumer privacy",
+      "count": 5,
+      "documents": 4
+    },
+    {
+      "word": "parties compliance",
+      "count": 5,
+      "documents": 1
+    },
+    {
+      "word": "materials provided",
+      "count": 5,
+      "documents": 3
+    },
+    {
+      "word": "proprietary rights",
+      "count": 5,
+      "documents": 4
+    },
+    {
+      "word": "rectification erasure",
+      "count": 5,
+      "documents": 2
+    },
+    {
+      "word": "data portability",
+      "count": 5,
+      "documents": 2
+    },
+    {
+      "word": "receive access",
+      "count": 5,
+      "documents": 2
+    },
+    {
+      "word": "property infringement",
+      "count": 5,
+      "documents": 2
+    },
+    {
+      "word": "rewards program",
+      "count": 5,
+      "documents": 1
+    },
+    {
+      "word": "essential information",
+      "count": 5,
+      "documents": 3
+    },
+    {
+      "word": "owned managed",
+      "count": 5,
+      "documents": 2
+    },
+    {
+      "word": "relevant material",
+      "count": 5,
+      "documents": 2
+    },
+    {
+      "word": "binding corporate",
+      "count": 5,
+      "documents": 1
+    },
+    {
+      "word": "corporate rules",
+      "count": 5,
+      "documents": 1
+    },
+    {
+      "word": "practices described",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "privacy disclosure",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "privacy laws",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "swiss-us data",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "information automatically",
+      "count": 4,
+      "documents": 4
+    },
+    {
+      "word": "information provide",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "credit cards",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "advertising identifier",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "relevant ads",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "profile information",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "update information",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "shopping cart",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "driver's license",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "identifiable information",
+      "count": 4,
+      "documents": 4
+    },
+    {
+      "word": "communications preferences",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "verantwortliche stelle",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "tls-verschl sselung",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "zur verarbeitung",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "nachfolgenden abschnitten",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "zum zweck",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "verarbeitung art",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "gesetzlichen aufbewahrungspflichten",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "aufbewahrungspflichten entgegenstehen",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "auftragsverarbeitungsvertrag geschlossen",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "vertragliche erweiterung",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "erweiterung nicht",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "nicht sichergestellt",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "bem hen",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "berhinausgehende regelungen",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "empf ngers",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "nutzen zur",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "daten dritte",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "kontakt treten",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "cookies erfolgt",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "cookies informiert",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "einzelfall erlauben",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "generell ausschlie",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "cookies beim",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "beim schlie",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "zus tzlich",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "potenzielle bermittlungen",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "anbieter zudem",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "zudem standarddatenschutzklauseln",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "daten drittland",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "nachfolgend bezeichnet",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "nutzer nicht",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "seite weitergeleitet",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "statistische auswertungen",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "direkte verbindung",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "nicht eingeloggt",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "vollumf nglich",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "conversion linker",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "zur nutzung",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "square grand",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "canal harbour",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "ckschl sse",
+      "count": 4,
+      "documents": 4
+    },
+    {
+      "word": "bing ads",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "cookie erzeugten",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "zur darstellung",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "zum beispiel",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "angemessene schutzma",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "widerruf erfolgten",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "controller addendum",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "schung einschr",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "aufgef hrten",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "gespeicherten personenbezogenen",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "daten zum",
+      "count": 4,
+      "documents": 4
+    },
+    {
+      "word": "datenschutzerkl rungen",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "erzeugten informationen",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "information commissioner",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "union verarbeitet",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "referral url",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "zur bereitstellung",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "hinterlegten daten",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "sozialen netzwerken",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "pers nlichen",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "universit neburg",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "unten abschnitt",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "gesetzten cookie",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "endeinrichtung abgelegte",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "abgelegte informationen",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "ereurop isches",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "isches drittland",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "social-media-pr senz",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "referrer url",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "werbung optimieren",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "processing data",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "practices please",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "data based",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "private repository",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "prohibited law",
+      "count": 4,
+      "documents": 4
+    },
+    {
+      "word": "rely consent",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "request please",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "respond requests",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "protection personal",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "swiss individuals",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "inquiries complaints",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "received reliance",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "information visit",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "federal trade",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "trade commission",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "resolve disputes",
+      "count": 4,
+      "documents": 4
+    },
+    {
+      "word": "persistent cookies",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "uniquely identify",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "data comply",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "identifiers contact",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "commercial information",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "data audio",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "audio electronic",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "electronic visual",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "authorized agents",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "light law",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "legal entity",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "minimum age",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "export control",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "need provide",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "moral rights",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "further agree",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "directly indirectly",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "payment based",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "effective immediately",
+      "count": 4,
+      "documents": 4
+    },
+    {
+      "word": "hold harmless",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "claim demand",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "protected intellectual",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "disputes arising",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "personal non-commercial",
+      "count": 4,
+      "documents": 4
+    },
+    {
+      "word": "another individual",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "privacy data",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "search history",
+      "count": 4,
+      "documents": 4
+    },
+    {
+      "word": "significantly affect",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "country residence",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "data personal",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "advertising advertising",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "data stored",
+      "count": 4,
+      "documents": 4
+    },
+    {
+      "word": "global cbpr",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "data provided",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "technologies collect",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "sharing information",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "fraud detection",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "court order",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "explicit consent",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "foto electronics",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "www bhphotovideo",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "bhphotovideo com",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "information privacy",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "information directly",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "third-party payment",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "payment processors",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "satisfaction surveys",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "choose provide",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "unique identifier",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "analytics marketing",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "de-identified data",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "permitted law",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "sensitive data",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "automated decision",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "information personal",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "privacy act",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "legal obligationschanges",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "sexual orientation",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "information contained",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "star rating",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "edit delete",
+      "count": 4,
+      "documents": 3
+    },
+    {
+      "word": "customized search",
+      "count": 4,
+      "documents": 1
+    },
+    {
+      "word": "data centers",
+      "count": 4,
+      "documents": 2
+    },
+    {
+      "word": "developer termsenterprise",
+      "count": 4,
+      "documents": 2
+    }
+  ]
+}

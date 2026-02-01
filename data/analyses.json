@@ -1,0 +1,114 @@
+[
+  {
+    "id": "1769937146497-68g8g64",
+    "domain": "google.com",
+    "url": "https://policies.google.com/privacy",
+    "timestamp": "2026-02-01T09:12:26.496Z",
+    "success": true,
+    "score": 81,
+    "policyType": "privacy",
+    "analysisTimeMs": 0
+  },
+  {
+    "id": "1769937090262-w17olcp",
+    "domain": "framer.com",
+    "url": "https://framer.com/privacy",
+    "timestamp": "2026-02-01T09:11:30.261Z",
+    "success": true,
+    "score": 89,
+    "policyType": "privacy",
+    "analysisTimeMs": 0
+  },
+  {
+    "id": "1765558365173-8xq001f",
+    "domain": "spotify.com",
+    "url": "https://www.spotify.com/us/legal/privacy-policy/",
+    "timestamp": "2025-12-12T16:52:45.171Z",
+    "success": true,
+    "score": 85,
+    "policyType": "privacy",
+    "analysisTimeMs": 0
+  },
+  {
+    "id": "1765113776197-wmn13hq",
+    "domain": "github.com",
+    "url": "https://docs.github.com/site-policy/privacy-policies/github-privacy-statement",
+    "timestamp": "2025-12-07T13:22:56.196Z",
+    "success": true,
+    "score": 79,
+    "policyType": "privacy",
+    "analysisTimeMs": 0,
+    "feedbackType": "positive",
+    "feedbackUrl": "https://docs.github.com/site-policy/privacy-policies/github-privacy-statement",
+    "feedbackAt": "2025-12-07T13:32:32.369Z"
+  },
+  {
+    "id": "1765112693011-2loz9b0",
+    "domain": "mi.com",
+    "url": "https://privacy.mi.com/all/en_US/",
+    "timestamp": "2025-12-07T13:04:53.010Z",
+    "success": true,
+    "score": 81,
+    "policyType": "privacy",
+    "analysisTimeMs": 0
+  },
+  {
+    "id": "1765111588236-bia99hx",
+    "domain": "https://www.mi.com/global/about/privacy/",
+    "url": null,
+    "timestamp": "2025-12-07T12:46:28.232Z",
+    "success": false,
+    "error": "Extracted content is too short (146 chars). The page may be a redirect, require authentication, or not contain a policy document.",
+    "policyType": "privacy"
+  },
+  {
+    "id": "1765110926539-zlrajlc",
+    "domain": "Xiaomi",
+    "url": null,
+    "timestamp": "2025-12-07T12:35:26.535Z",
+    "success": false,
+    "error": "Extracted content is too short (146 chars). The page may be a redirect, require authentication, or not contain a policy document.",
+    "policyType": "privacy"
+  },
+  {
+    "id": "1765110673489-9secnvy",
+    "domain": "Xiami",
+    "url": null,
+    "timestamp": "2025-12-07T12:31:13.487Z",
+    "success": false,
+    "error": "Failed to parse page content: Failed to parse content: insufficient text extracted",
+    "policyType": "privacy"
+  },
+  {
+    "id": "1765110629350-nwhte1d",
+    "domain": "wilhelm-tel.de",
+    "url": "https://wilhelm-tel.de/datenschutz",
+    "timestamp": "2025-12-07T12:30:29.347Z",
+    "success": true,
+    "score": 81,
+    "policyType": "privacy",
+    "analysisTimeMs": 0,
+    "feedbackType": "positive",
+    "feedbackUrl": "https://wilhelm-tel.de/datenschutz",
+    "feedbackAt": "2025-12-07T12:30:36.905Z"
+  },
+  {
+    "id": "1765065168873-utjqulv",
+    "domain": "rollei.de",
+    "url": "https://rollei.de/pages/datenschutz-cookies",
+    "timestamp": "2025-12-06T23:52:48.872Z",
+    "success": true,
+    "score": 87,
+    "policyType": "privacy",
+    "analysisTimeMs": 0
+  },
+  {
+    "id": "1765056366130-xfiw0pm",
+    "domain": "Rollei",
+    "url": null,
+    "timestamp": "2025-12-06T21:26:06.125Z",
+    "success": false,
+    "error": "Failed to parse page content: Failed to parse content: no privacy-related text found",
+    "policyType": "privacy"
+  }
+]

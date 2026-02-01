@@ -1,0 +1,54 @@
+{
+  "results": [
+    {
+      "title": "California Privacy Notice - Modrinth",
+      "url": "https://modrinth.com/legal/ccpa",
+      "snippet": "Personal information does not include: Publicly available information from government records. Deidentified or aggregated consumer information. Information excluded from the CCPA's scope, like: health or medical information covered by the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and the California Confidentiality of Medical Information Act (CMIA) or clinical trial ..."
+    },
+    {
+      "title": "Privacy Policy - Modrinth",
+      "url": "https://modrinth.com/legal/privacy",
+      "snippet": "This policy describes the types of information we may collect from you or that you may provide when you use www.modrinth.com, api.modrinth.com, or the Modrinth App (\"Service\" or \"Website\"), and our practices for collecting, using, maintaining, protecting, and disclosing that information."
+    },
+    {
+      "title": "Modrinth",
+      "url": "https://modrinth.com/legal",
+      "snippet": "Download Minecraft mods, plugins, datapacks, shaders, resourcepacks, and modpacks on Modrinth. Discover and publish projects on Modrinth with a modern, easy to use interface and API."
+    },
+    {
+      "title": "Terms of Use - Modrinth",
+      "url": "https://modrinth.com/legal/terms",
+      "snippet": "The User uses the Modrinth API in accordance with these Terms, the Community Standards and all applicable laws and regulations that apply to such use. the User does not infringe any rights of third parties."
+    },
+    {
+      "title": "Content Rules - Modrinth",
+      "url": "https://modrinth.com/legal/rules",
+      "snippet": "The Content Rules of Modrinth, an open source modding platform focused on Minecraft."
+    },
+    {
+      "title": "Sign Up - Modrinth",
+      "url": "https://modrinth.com/auth/sign-up",
+      "snippet": "Download Minecraft mods, plugins, datapacks, shaders, resourcepacks, and modpacks on Modrinth. Discover and publish projects on Modrinth with a modern, easy to use interface and API."
+    },
+    {
+      "title": "Is modrinth safe?? : r/feedthebeast - Reddit",
+      "url": "https://www.reddit.com/r/feedthebeast/comments/18lm7bn/is_modrinth_safe/",
+      "snippet": "Modrinth and Curseforge are the two main websites for getting java edition mods. There is a chrome extension which will warn you when you are about to enter most untrustworthy websites for downloading mods."
+    },
+    {
+      "title": "Modrinth Servers refund policy | Modrinth Help Center",
+      "url": "https://support.modrinth.com/en/articles/11190387-modrinth-servers-refund-policy",
+      "snippet": "Chargeback policy If you issue a chargeback on your Modrinth Server subscription, Modrinth will immediately terminate any and all servers you have associated with your account, and prevent you from being able to create any servers in the future."
+    },
+    {
+      "title": "Modrinth Help Center",
+      "url": "https://support.modrinth.com/en/",
+      "snippet": "Modrinth Help CenterFor articles specific to the Modrinth App, our flagship modded launcher."
+    },
+    {
+      "title": "Billing | Modrinth Help Center",
+      "url": "https://support.modrinth.com/en/collections/12747537-billing",
+      "snippet": "For articles regarding billing for Modrinth Servers.Repeated failed charges Why do I keep getting charged for a failed payment, even though I don't want my server anymore?"
+    }
+  ]
+}

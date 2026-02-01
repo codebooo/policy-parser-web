@@ -1,0 +1,114 @@
+{
+  "data": {
+    "summary": "Google's privacy policy details an extensive data collection ecosystem that powers its services and advertising business. While it offers users powerful tools to manage their data, the default settings and the combination of information from across all services, devices, and third-party partner sites pose significant privacy risks. Key concerns include the potential for indefinite data retention unless users actively manage settings and broad cross-site tracking for ad personalization. Positively, Google commits not to use content from personal services like Gmail, Drive, and Photos or sensitive categories like race and health for advertising purposes, which is a critical user protection.",
+    "privacyScore": 75,
+    "risks": [
+      {
+        "level": "Medium",
+        "title": "Broad Cross-Site and Cross-Service Data Tracking",
+        "description": "Google collects data about your activity not only on its own services but also on third-party websites and apps that use Google services (like Ads and Analytics). This information is combined with your Google Account data to build a comprehensive profile for service improvement and ad personalization.",
+        "quote": "Depending on your account settings, your activity on other sites and apps may be associated with your personal information in order to improve Google’s services and the ads delivered by Google."
+      },
+      {
+        "level": "Medium",
+        "title": "Potentially Indefinite Data Retention by Default",
+        "description": "The policy states that data retention periods depend on user settings. This places the burden on the user to configure auto-delete policies. Without user intervention, activity data may be stored for extended periods, creating a long-term record of user behavior.",
+        "quote": "The types of location data we collect and how long we store it depend in part on your device and account settings. For example, you can turn your Android device’s location on or off using the device’s settings app."
+      },
+      {
+        "level": "Low",
+        "title": "Extensive Collection of Location and Device Data",
+        "description": "Google collects a wide variety of location information, including GPS, IP address, sensor data, and information from nearby Wi-Fi access points and cell towers. This is used for personalizing services and ads.",
+        "quote": "We collect location information when you use our services, which helps us offer features like driving directions, search results for things near you, and ads based on your location."
+      }
+    ],
+    "secureUsageRecommendations": [
+      "Regularly visit your Google 'My Activity' dashboard to review and delete your stored activity history. Set up auto-delete for Web & App Activity, Location History, and YouTube History.",
+      "Access the 'My Ad Center' to review, edit, or disable ad personalization settings and limit the data used to show you ads.",
+      "In your Google Account settings, review and revoke permissions for third-party apps and sites you no longer use or trust.",
+      "On mobile devices, carefully manage location permissions for Google apps, granting access only 'while in use' or not at all, and turn off the master location setting when not needed.",
+      "Avoid syncing your entire Chrome browsing history with your Google Account if you wish to keep it separate from your primary profile. Use guest or incognito modes for sensitive searches."
+    ],
+    "bulletPoints": [
+      {
+        "title": "Cross-Platform Data Combination",
+        "category": "Warning",
+        "text": "Google combines data from your activity across all its services (Search, YouTube, Maps), your devices, and third-party partner websites to create a unified profile."
+      },
+      {
+        "title": "User-Managed Data Retention",
+        "category": "Warning",
+        "text": "The responsibility for limiting data retention periods falls on the user, who must actively configure auto-delete settings to prevent long-term storage of their activity."
+      },
+      {
+        "title": "No Use of Personal Content for Ads",
+        "category": "Brilliant",
+        "text": "Google explicitly states it does not use your content from Drive, Gmail, or Photos to show you personalized ads, a significant privacy protection."
+      },
+      {
+        "title": "No Ad Targeting with Sensitive Data",
+        "category": "Good",
+        "text": "The policy guarantees that sensitive categories such as race, religion, sexual orientation, or health are not used for ad personalization."
+      },
+      {
+        "title": "Granular User Controls",
+        "category": "Good",
+        "text": "Users are provided with comprehensive dashboards like 'My Activity' and 'My Ad Center' to view, manage, and delete their data and privacy preferences."
+      },
+      {
+        "title": "Broad Data Collection",
+        "category": "Caution",
+        "text": "A vast amount of data is collected, including search terms, videos watched, location history, voice commands, and content you create and receive."
+      },
+      {
+        "title": "Data Use for AI Training",
+        "category": "Normal",
+        "text": "Information, including publicly accessible data and user interactions with AI services, is used to train and improve Google's AI models like Gemini."
+      }
+    ],
+    "fullTextSections": [
+      {
+        "id": "information_collection_overview",
+        "title": "Information Google Collects",
+        "content": "## We want you to understand the types of information we collect as you use our services\n\nWe collect information to provide better services to all our users — from figuring out basic stuff like which language you speak, to more complex things like which [ads you’ll find most useful](https://policies.google.com/privacy?hl=en-US#footnote-useful-ads), [the people who matter most to you online](https://policies.google.com/privacy?hl=en-US#footnote-people-online), or which YouTube videos you might like. The information Google collects, and how that information is used, depends on how you use our services and how you manage your privacy controls.\n\nWhen you’re not signed in to a Google Account, we store the information we collect with [unique identifiers](https://policies.google.com/privacy?hl=en-US#footnote-unique-id) tied to the browser, application, or [device](https://policies.google.com/privacy?hl=en-US#footnote-device) you’re using. This allows us to do things like maintain your preferences across browsing sessions, such as your preferred language or whether to show you more relevant search results or ads based on your activity.\n\nWhen you’re signed in, we also collect information that we store with your Google Account, which we treat as [personal information](https://policies.google.com/privacy?hl=en-US#footnote-personal-info).",
+        "summary": "Google collects information to improve its services and personalize user experience, including ads. Data collection methods differ based on whether a user is signed into a Google Account. While signed out, data is tied to unique identifiers for the browser or device; while signed in, it is stored with the user's account as personal information."
+      },
+      {
+        "id": "user_provided_content",
+        "title": "Things you create or provide to us",
+        "content": "When you create a Google Account, you provide us with [personal information](https://policies.google.com/privacy?hl=en-US#footnote-personal-info) that includes your name and a password. You can also choose to add a [phone number](https://policies.google.com/privacy?hl=en-US#footnote-phone-number) or [payment information](https://policies.google.com/privacy?hl=en-US#footnote-payment-info) to your account. Even if you aren’t signed in to a Google Account, you might choose to provide us with information — like an email address to communicate with Google or receive updates about our services.\n\nWe also collect the content you create, upload, or receive from others when using our services. This includes things like email you write and receive, photos and videos you save, docs and spreadsheets you create, and comments you make on YouTube videos.",
+        "summary": "Users provide personal information like name, password, phone number, and payment details when creating an account. Google also collects all content users create, upload, or receive through its services, such as emails, photos, documents, and comments."
+      },
+      {
+        "id": "automatic_collection",
+        "title": "Information we collect as you use our services",
+        "content": "### Your apps, browsers & devices\n\nWe collect information about the apps, browsers, and [devices](https://policies.google.com/privacy?hl=en-US#footnote-devices) you use to access Google services, which helps us provide features like automatic product updates and dimming your screen if your battery runs low.\n\nThe information we collect includes [unique identifiers](https://policies.google.com/privacy?hl=en-US#footnote-unique-id), browser type and settings, device type and settings, operating system, mobile network information including carrier name and phone number, and application version number. We also collect information about the interaction of your apps, browsers, and devices with our services, including [IP address](https://policies.google.com/privacy?hl=en-US#footnote-ip), crash reports, system activity, and the date, time, and [referrer URL](https://policies.google.com/privacy?hl=en-US#footnote-referrer-url) of your request.\n\n### Your activity\n\nWe collect information about your activity in our services, which we use to do things like recommend a YouTube video you might like. The activity information we collect may include:\n\n*   Terms you search for\n*   Videos you watch\n*   [Views and interactions with content and ads](https://policies.google.com/privacy?hl=en-US#footnote-content-views)\n*   [Voice and audio information](https://policies.google.com/privacy?hl=en-US#footnote-voice-audio-information)\n*   Purchase activity\n*   People with whom you communicate or share content\n*   [Activity on third-party sites and apps that use our services](https://policies.google.com/privacy?hl=en-US#footnote-activity-on-third-party)\n*   Chrome browsing history you’ve [synced with your Google Account](https://policies.google.com/privacy?hl=en-US#footnote-chrome-sync)\n\n### Your location information\n\nWe collect location information when you use our services, which helps us offer features like driving directions, search results for things near you, and ads based on your location.\n\nDepending on the products you’re using and settings you choose, Google may use different types of location information to help make some services and products you use more helpful. These include:\n\n*   GPS and other [sensor data from your device](https://policies.google.com/privacy?hl=en-US#footnote-sensor-data)\n*   [IP address](https://policies.google.com/privacy?hl=en-US#footnote-ip)\n*   [Activity on Google services](https://policies.google.com/privacy?hl=en-US#footnote-activity-on-services), such as from your searches or [places you label like home or work](https://policies.google.com/privacy?hl=en-US#footnote-places-you-label)\n*   [Information about things near your device](https://policies.google.com/privacy?hl=en-US#footnote-near-device), such as Wi-Fi access points, cell towers, and Bluetooth-enabled devices\n\nIn some circumstances, Google also collects information about you from [publicly accessible sources](https://policies.google.com/privacy?hl=en-US#footnote-sources). ... We may also collect information about you from trusted partners... We use various technologies to collect and store information, including [cookies](https://policies.google.com/privacy?hl=en-US#footnote-cookies), [pixel tags](https://policies.google.com/privacy?hl=en-US#footnote-pixel), local storage...",
+        "summary": "Google automatically collects extensive data as you use its services. This includes technical details about your devices, browsers, and network. It also logs your activity, such as search terms, videos watched, ad interactions, voice commands, and browsing history on both Google and third-party sites. Furthermore, precise location data is collected from various sources like GPS, IP addresses, and nearby network signals."
+      },
+      {
+        "id": "data_usage_purpose",
+        "title": "Why Google collects data",
+        "content": "## We use data to build better services\n\nWe use the information we collect from all our services for the following purposes:\n\n### Provide our services\nWe use your information to [deliver our services](https://policies.google.com/privacy?hl=en-US#footnote-deliver-services), like processing the terms you search for in order to return results or helping you share content by suggesting recipients from your contacts.\n\n### Maintain & improve our services\nWe also use your information to [ensure our services are working as intended](https://policies.google.com/privacy?hl=en-US#footnote-ensure-working), such as tracking outages or troubleshooting issues that you report to us. ...\n\n### Develop new services\nWe use the information we collect in existing services to help us develop new ones. ...\n\n### Provide personalized services, including content and ads\nWe use the information we collect to customize our services for you, including providing recommendations, personalized content, and [customized search results](https://policies.google.com/privacy?hl=en-US#footnote-customized-search). ... Depending on your settings, we may also show you [personalized ads](https://policies.google.com/privacy?hl=en-US#footnote-personalized-ads) based on your interests and activity across Google services. ... We don’t share information that personally identifies you with advertisers, such as your name or email, unless you ask us to. ...\n\n### Measure performance\nWe use data for analytics and measurement to understand how our services are used. ... When you visit sites or use apps that use Google Analytics, a Google Analytics customer may choose to enable Google to [link information](https://policies.google.com/privacy?hl=en-US#footnote-link-info) about your activity from that site or app with activity from other sites or apps that use our ad services.\n\n### Communicate with you\nWe use information we collect, like your email address, to interact with you directly. ...\n\n### Protect Google, our users, and the public\nWe use information to help improve the [safety and reliability](https://policies.google.com/privacy?hl=en-US#footnote-safety-reliability) of our services. ...\n\nWe may [use the information we collect](https://policies.google.com/privacy?hl=en-US#footnote-combine-info) across our services and across your devices for the purposes described above. ... We’ll ask for your consent before using your information for a purpose that isn’t covered in this Privacy Policy.",
+        "summary": "Google uses the collected data for several key purposes: providing and maintaining services, developing new ones, and personalizing content and advertisements. Data is also used for performance analytics, direct communication with users, and ensuring security. Crucially, Google combines information from across its services and a user's devices for these purposes."
+      },
+      {
+        "id": "compliance_and_legal",
+        "title": "Compliance & cooperation with regulators",
+        "content": "We regularly review this Privacy Policy and make sure that we process your information in ways that comply with it.\n\n## Data transfers\n\nWe maintain [servers around the world](https://policies.google.com/privacy?hl=en-US#footnote-servers) and your information may be processed on servers located outside of the country where you live. Data protection laws vary among countries, with some providing more protection than others. Regardless of where your information is processed, we apply the same protections described in this policy. We also comply with certain [legal frameworks](https://policies.google.com/privacy/frameworks?hl=en-US) relating to the transfer of data.\n\nWhen we receive formal written complaints, we respond by contacting the person who made the complaint. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of your data that we cannot resolve with you directly.",
+        "summary": "Google commits to regular reviews of its policy to ensure compliance. It operates servers globally, meaning user data may be transferred and processed outside of their home country, though Google states it applies the same protections everywhere. The company cooperates with data protection authorities to resolve complaints."
+      },
+      {
+        "id": "european_requirements",
+        "title": "European requirements",
+        "content": "### How to exercise your rights and contact Google\n\nIf European Union (EU) or United Kingdom (UK) data protection law applies to the processing of your information, we provide the [controls](https://policies.google.com/privacy?hl=en-US#infochoices) described in this policy so you can exercise your rights to request access to, update, [remove](https://policies.google.com/privacy?hl=en-US#footnote-remove), and restrict the processing of your information. You also have the right to object to the processing of your information or export your information to another service.\n\n### Data controller\n\nUnless otherwise stated in a service-specific privacy notice, the [data controller responsible for processing your information](https://policies.google.com/privacy?hl=en-US#footnote-data-controller) depends on where you are based: Google Ireland Limited for the EEA/Switzerland and Google LLC for the UK.\n\n### Legal bases of processing\n\nWe process your information for the [purposes](https://policies.google.com/privacy?hl=en-US#whycollect) described in this policy, based on the following legal grounds:\n*   To provide a service you’ve asked for under a contract.\n*   For our legitimate interests and those of third parties while applying appropriate safeguards.\n*   To protect the vital interests of you or another person.\n*   When we have a legal obligation to do so.\n*   With your consent, which you can withdraw at any time.\nThe section continues with a detailed table explaining the specific data processed and the legal basis for each processing activity.",
+        "summary": "This section outlines specific rights and legal bases for data processing under EU and UK law. It affirms users' rights to access, update, remove, and restrict their data. It identifies the data controllers for different regions and lists the legal grounds for processing, including contract performance, legitimate interests, legal obligations, and user consent. A detailed table further breaks down these justifications for various processing activities."
+      },
+      {
+        "id": "key_terms_and_context",
+        "title": "Key terms and Additional Context",
+        "content": "This portion of the policy provides definitions for technical and legal terms used throughout the document, such as 'Affiliates', 'Cookies', 'IP address', 'Pixel tag', 'Personal information', and 'Unique identifiers'. The 'Additional Context' sections further expand on specific types of data collection and use, clarifying how information from third-party sites is used, how ads are personalized, and what it means to have an 'Android device with Google apps'. It gives more detail on concepts like linking data from Google Analytics with ad services and how location data improves services.",
+        "summary": "This final part of the policy serves as a glossary and appendix. It defines key technical terms to help users understand the policy's language. It also provides detailed contextual explanations for specific data practices, such as how activity on third-party sites is collected, how ad personalization works, and the specifics of data collection on Android devices."
+      }
+    ]
+  }
+}

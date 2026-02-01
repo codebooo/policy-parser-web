@@ -1,0 +1,130 @@
+{
+  "data": {
+    "summary": "This is a standard CCPA-compliant privacy notice for California residents. It clearly outlines the categories of data collected, such as identifiers, commercial information, and internet activity. While the company commendably states it does not sell personal information, it engages in targeted advertising on third-party sites. Key areas of concern include the lack of a specific data retention schedule and a clause stating that continued use of the service constitutes acceptance of any policy changes, which undermines explicit user consent.",
+    "privacyScore": 75,
+    "risks": [
+      {
+        "level": "Medium",
+        "title": "Cross-Site Tracking and Targeted Advertising",
+        "description": "The policy states that your data is used to deliver targeted ads not just on their service, but on third-party sites as well, indicating broad tracking of user activity for advertising purposes.",
+        "quote": "To personalize your Service experience and to deliver content and product and service offerings relevant to your interests, including targeted offers and ads through our Service, third-party sites, and via email or text message (with your consent, where required by law)."
+      },
+      {
+        "level": "Medium",
+        "title": "Implied Indefinite Data Retention",
+        "description": "The policy does not define a specific time period for how long personal data is kept. The broad exceptions to data deletion requests, such as maintaining an 'ongoing business relationship,' could allow the company to retain your information indefinitely.",
+        "quote": "We may deny your deletion request if retaining the information is necessary for us or our service provider(s) to: 1. Complete the transaction for which we collected the personal information, provide a good or service that you requested, take actions reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform our contract with you."
+      },
+      {
+        "level": "Medium",
+        "title": "Acceptance of Policy Changes Through Continued Use",
+        "description": "The policy states that by continuing to use the service after a notice is updated, you automatically accept the new terms. This practice removes the need for the company to obtain your explicit consent for potentially significant changes to how your data is handled.",
+        "quote": "Your continued use of our Service following the posting of changes constitutes your acceptance of such changes."
+      }
+    ],
+    "secureUsageRecommendations": [
+      "Regularly review your account settings and connected services to limit data sharing.",
+      "Exercise your CCPA rights to request access to or deletion of your data periodically to ensure your information is not retained indefinitely.",
+      "If you object to policy changes, you must stop using the service, as continued use signifies consent.",
+      "Utilize browser settings or privacy tools to block cross-site trackers and limit targeted advertising."
+    ],
+    "bulletPoints": [
+      {
+        "title": "Data Collection Scope",
+        "category": "Normal",
+        "text": "The service collects identifiers (name, IP address, email), commercial information, internet activity (browsing history), and geolocation data."
+      },
+      {
+        "title": "No Sale of Personal Information",
+        "category": "Good",
+        "text": "The company explicitly states that it has not sold personal information in the preceding 12 months."
+      },
+      {
+        "title": "Targeted Advertising",
+        "category": "Warning",
+        "text": "Your personal information is used to deliver targeted ads on both the company's service and on third-party websites."
+      },
+      {
+        "title": "Data Retention Policy",
+        "category": "Warning",
+        "text": "The policy lacks a specific data retention schedule, creating ambiguity about how long your information is stored."
+      },
+      {
+        "title": "Consent to Changes",
+        "category": "Warning",
+        "text": "Continuing to use the service after a policy update is considered acceptance of the new terms, bypassing the need for explicit consent."
+      },
+      {
+        "title": "Clear Data Categorization",
+        "category": "Brilliant",
+        "text": "The policy uses a clear, easy-to-read table to list the categories of personal information collected, enhancing transparency."
+      },
+      {
+        "title": "CCPA Rights",
+        "category": "Good",
+        "text": "The notice provides comprehensive information on how California residents can exercise their rights to access, delete, and port their data."
+      }
+    ],
+    "fullTextSections": [
+      {
+        "id": "introduction",
+        "title": "Privacy Notice for California Residents",
+        "content": "This Privacy Notice for California Residents supplements the information contained in the [Privacy Policy](https://modrinth.com/legal/privacy) of Rinth, Inc. (the \"Company,\" \"we,\" \"us\" or \"our\") and applies solely to all visitors, users, and others who reside in the State of California (\"consumers\" or \"you\"). We adopt this notice to comply with the California Consumer Privacy Act of 2018 (CCPA), as it may be amended, modified or supplemented from time to time, and any terms defined in the CCPA have the same meaning when used in this notice.",
+        "summary": "This document is a privacy notice specifically for California residents, created to comply with the California Consumer Privacy Act (CCPA)."
+      },
+      {
+        "id": "info_collected",
+        "title": "Information We Collect",
+        "content": "Our Service collects information that identifies, relates to, describes, references, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or device (\"personal information\"). In particular, our Service has collected the following categories of personal information from its consumers within the last twelve (12) months: A. Identifiers (YES), B. Personal information categories listed in the California Customer Records statute (YES), D. Commercial information (YES), F. Internet or other similar network activity (YES), G. Geolocation data (YES). We obtain this information directly and indirectly from you.",
+        "summary": "The company collects several categories of personal information over the last 12 months, including identifiers, customer records, commercial data, internet activity, and geolocation. This data is sourced both directly from user input and indirectly through observation of user activity."
+      },
+      {
+        "id": "info_use",
+        "title": "Use of Personal Information",
+        "content": "We may use or disclose the personal information we collect for one or more of the following business purposes: To fulfill or meet the reason you provided the information; To provide, support, personalize, and develop our Service; To create, maintain, customize, and secure your account; To process your requests, purchases, transactions, and payments; To provide you with support; To personalize your Service experience and to deliver content and product and service offerings relevant to your interests, including targeted offers and ads through our Service, third-party sites, and via email or text message; To help maintain the safety, security, and integrity of our Service; For testing, research, analysis, and product development; To respond to law enforcement requests; As described to you when collecting your personal information; To evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of the Company's assets.",
+        "summary": "Personal information is used for various business purposes, including fulfilling service requests, personalizing user experience, processing transactions, providing customer support, security, research, and delivering targeted advertising on the company's service and third-party sites."
+      },
+      {
+        "id": "info_sharing",
+        "title": "Sharing Personal Information",
+        "content": "We may disclose your personal information to a third party for a business purpose. When we disclose personal information for a business purpose, we enter a contract that describes the purpose and requires the recipient to both keep that personal information confidential and not use it for any purpose except performing the contract. The CCPA prohibits third parties who purchase the personal information we hold from reselling it unless you have received explicit notice and an opportunity to opt-out of further sales. In the preceding twelve (12) months, Company has disclosed Identifiers, Internet activity, and Geolocation data for a business purpose to service providers. In the preceding twelve (12) months, Company has not sold personal information.",
+        "summary": "The company shares identifiers, internet activity, and geolocation data with service providers for business purposes under contracts that enforce confidentiality. The company states it has not sold any personal information in the last year."
+      },
+      {
+        "id": "rights_choices",
+        "title": "Your Rights and Choices",
+        "content": "The CCPA provides consumers (California residents) with specific rights regarding their personal information. This section describes your CCPA rights and explains how to exercise those rights. You have the right to request access to your information and data portability. You also have the right to request deletion of your personal information, subject to certain exceptions. To exercise these rights, you must submit a verifiable consumer request. We will respond within forty-five (45) days, with a possible extension to 90 days.",
+        "summary": "This section details the rights of California residents under the CCPA, including the right to access, port, and delete their personal data. It outlines the process for submitting a verifiable request and the company's expected response time."
+      },
+      {
+        "id": "non_discrimination",
+        "title": "Non-Discrimination",
+        "content": "We will not discriminate against you for exercising any of your CCPA rights. Unless permitted by the CCPA, we will not: Deny you goods or services; Charge you different prices or rates; Provide you a different level or quality of goods or services; Suggest that you may receive a different price or rate. However, we may offer you certain financial incentives permitted by the CCPA that can result in different prices, rates, or quality levels.",
+        "summary": "The company pledges not to discriminate against users who exercise their CCPA rights, meaning it won't deny services or alter prices. However, it may offer financial incentives that are compliant with the CCPA."
+      },
+      {
+        "id": "changes",
+        "title": "Changes to Our Privacy Notice",
+        "content": "We reserve the right to amend this privacy notice at our discretion and at any time. When we make changes to this privacy notice, we will post the updated notice on the Service and update the notice's effective date. Your continued use of our Service following the posting of changes constitutes your acceptance of such changes.",
+        "summary": "The company can change this privacy notice at any time. By continuing to use the service after changes are posted, you are considered to have accepted the new terms."
+      },
+      {
+        "id": "contact",
+        "title": "Contact Information",
+        "content": "If you have any questions or comments about this notice, the ways in which we collect and use your information described below and in the [Privacy Policy](https://modrinth.com/legal/privacy), your choices and rights regarding such use, or wish to exercise your rights under California law, please do not hesitate to contact us at [support@modrinth.com](mailto:support@modrinth.com).",
+        "summary": "Provides contact information (support@modrinth.com) for users who have questions about the privacy policy or wish to exercise their legal rights."
+      }
+    ],
+    "date": "August 5th, 2023",
+    "details": [
+      {
+        "title": "Effective Date",
+        "content": "August 5th, 2023"
+      },
+      {
+        "title": "Last Reviewed On",
+        "content": "March 11th, 2025"
+      }
+    ]
+  }
+}

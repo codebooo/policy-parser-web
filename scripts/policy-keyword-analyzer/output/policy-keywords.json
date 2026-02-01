@@ -1,0 +1,290 @@
+{
+  "totalDocuments": 22,
+  "analyzedAt": "2025-12-01T20:34:30.982Z",
+  "model": "deepseek-r1:671b",
+  "high_confidence": [
+    {
+      "term": "information",
+      "frequency": 1224,
+      "documentFrequency": 18,
+      "score": 0.9090909090909092,
+      "category": "high_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "data",
+      "frequency": 1175,
+      "documentFrequency": 18,
+      "score": 0.9090909090909092,
+      "category": "high_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "consent",
+      "frequency": 159,
+      "documentFrequency": 17,
+      "score": 0.8863636363636364,
+      "category": "high_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "privacy",
+      "frequency": 464,
+      "documentFrequency": 16,
+      "score": 0.8636363636363636,
+      "category": "high_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "cookies",
+      "frequency": 347,
+      "documentFrequency": 16,
+      "score": 0.8636363636363636,
+      "category": "high_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "personal",
+      "frequency": 698,
+      "documentFrequency": 15,
+      "score": 0.8409090909090908,
+      "category": "high_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "rights",
+      "frequency": 215,
+      "documentFrequency": 15,
+      "score": 0.8409090909090908,
+      "category": "high_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "access",
+      "frequency": 250,
+      "documentFrequency": 14,
+      "score": 0.8181818181818181,
+      "category": "high_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "legal",
+      "frequency": 194,
+      "documentFrequency": 14,
+      "score": 0.8181818181818181,
+      "category": "high_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "law",
+      "frequency": 181,
+      "documentFrequency": 14,
+      "score": 0.8181818181818181,
+      "category": "high_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "party",
+      "frequency": 103,
+      "documentFrequency": 14,
+      "score": 0.8181818181818181,
+      "category": "high_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "laws",
+      "frequency": 98,
+      "documentFrequency": 14,
+      "score": 0.8081818181818181,
+      "category": "high_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "collect",
+      "frequency": 193,
+      "documentFrequency": 13,
+      "score": 0.7954545454545454,
+      "category": "high_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "security",
+      "frequency": 153,
+      "documentFrequency": 13,
+      "score": 0.7954545454545454,
+      "category": "high_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "third-party",
+      "frequency": 114,
+      "documentFrequency": 12,
+      "score": 0.7727272727272727,
+      "category": "high_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "protection",
+      "frequency": 103,
+      "documentFrequency": 12,
+      "score": 0.7727272727272727,
+      "category": "high_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "com",
+      "frequency": 87,
+      "documentFrequency": 13,
+      "score": 0.7304545454545455,
+      "category": "high_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "collected",
+      "frequency": 79,
+      "documentFrequency": 12,
+      "score": 0.6677272727272727,
+      "category": "high_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "protect",
+      "frequency": 77,
+      "documentFrequency": 12,
+      "score": 0.6577272727272727,
+      "category": "high_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "control",
+      "frequency": 61,
+      "documentFrequency": 13,
+      "score": 0.6004545454545455,
+      "category": "high_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "delete",
+      "frequency": 61,
+      "documentFrequency": 13,
+      "score": 0.6004545454545455,
+      "category": "high_confidence",
+      "isPolicyRelated": true
+    }
+  ],
+  "medium_confidence": [
+    {
+      "term": "share",
+      "frequency": 143,
+      "documentFrequency": 11,
+      "score": 0.75,
+      "category": "medium_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "processing",
+      "frequency": 194,
+      "documentFrequency": 10,
+      "score": 0.7272727272727273,
+      "category": "medium_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "cookie",
+      "frequency": 73,
+      "documentFrequency": 11,
+      "score": 0.615,
+      "category": "medium_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "art",
+      "frequency": 180,
+      "documentFrequency": 5,
+      "score": 0.6136363636363636,
+      "category": "medium_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "informationen",
+      "frequency": 135,
+      "documentFrequency": 5,
+      "score": 0.6136363636363636,
+      "category": "medium_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "compliance",
+      "frequency": 50,
+      "documentFrequency": 10,
+      "score": 0.4772727272727273,
+      "category": "medium_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "shared",
+      "frequency": 37,
+      "documentFrequency": 11,
+      "score": 0.435,
+      "category": "medium_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "jurisdiction",
+      "frequency": 37,
+      "documentFrequency": 11,
+      "score": 0.435,
+      "category": "medium_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "collection",
+      "frequency": 41,
+      "documentFrequency": 10,
+      "score": 0.43227272727272725,
+      "category": "medium_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "tracking",
+      "frequency": 36,
+      "documentFrequency": 11,
+      "score": 0.43,
+      "category": "medium_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "controller",
+      "frequency": 44,
+      "documentFrequency": 8,
+      "score": 0.40181818181818185,
+      "category": "medium_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "copyright",
+      "frequency": 48,
+      "documentFrequency": 7,
+      "score": 0.39909090909090905,
+      "category": "medium_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "retention",
+      "frequency": 37,
+      "documentFrequency": 9,
+      "score": 0.38954545454545453,
+      "category": "medium_confidence",
+      "isPolicyRelated": true
+    },
+    {
+      "term": "personalized",
+      "frequency": 41,
+      "documentFrequency": 8,
+      "score": 0.38681818181818184,
+      "category": "medium_confidence",
+      "isPolicyRelated": true
+    }
+  ],
+  "low_confidence": []
+}

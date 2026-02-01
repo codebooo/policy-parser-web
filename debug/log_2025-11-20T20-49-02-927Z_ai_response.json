@@ -1,0 +1,3 @@
+{
+  "textResponse": "```json\n{\n  \"error\": \"Invalid Input: Not a Legal Policy Document\",\n  \"message\": \"The provided text appears to be a collection of user interface elements, navigation links, and error messages from a GitHub page, not a legal policy document. To complete the analysis, please provide the actual text of a privacy policy or terms of service.\"\n}\n```"
+}
