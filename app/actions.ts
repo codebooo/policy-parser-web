@@ -160,19 +160,21 @@ export async function analyzePolicy(text: string, url: string, userId?: string):
 }
 
 export async function analyzeDomain(input: string) {
-    const stream = createStreamableValue({
-        status: 'initializing',
-        message: 'Initializing analysis...',
-        step: 0,
-        data: null as any
-    });
+    // Wrap entire function in try-catch to surface any initialization errors
+    try {
+        const stream = createStreamableValue({
+            status: 'initializing',
+            message: 'Initializing analysis...',
+            step: 0,
+            data: null as any
+        });
 
-    (async () => {
-        try {
-            // Step 1: Identification
-            stream.update({ status: 'identifying', message: `Verifying ${input}...`, step: 1, data: null });
-            const identity = await identifyTarget(input);
-            logger.info('Identity verified', identity);
+        (async () => {
+            try {
+                // Step 1: Identification
+                stream.update({ status: 'identifying', message: `Verifying ${input}...`, step: 1, data: null });
+                const identity = await identifyTarget(input);
+                logger.info('Identity verified', identity);
 
             // Step 2: Check cache FIRST - save API credits! 💰
             stream.update({ status: 'checking_cache', message: `Checking for cached analysis...`, step: 2, data: null });
@@ -312,6 +314,18 @@ export async function analyzeDomain(input: string) {
     })();
 
     return { output: stream.value };
+    } catch (initError: any) {
+        // If stream creation itself fails, return a simple error object
+        console.error('[analyzeDomain] Initialization error:', initError);
+        const errorStream = createStreamableValue({
+            status: 'error',
+            message: `Initialization failed: ${initError?.message || 'Unknown error'}`,
+            step: -1,
+            data: null
+        });
+        errorStream.done();
+        return { output: errorStream.value };
+    }
 }
 
 /**
