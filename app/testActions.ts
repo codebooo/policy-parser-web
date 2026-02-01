@@ -4,6 +4,12 @@ import fs from "fs";
 import path from "path";
 
 export async function saveTestLog(logData: any) {
+    // Skip file operations on Vercel (read-only filesystem)
+    if (process.env.VERCEL) {
+        console.log("[testActions] Skipping file save on Vercel:", JSON.stringify(logData));
+        return { success: true, path: "(skipped on Vercel)" };
+    }
+
     try {
         const logDir = path.join(process.cwd(), "logs");
         if (!fs.existsSync(logDir)) {

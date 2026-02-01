@@ -66,7 +66,10 @@ class DeepLogger {
 
     private constructor() {
         this.logDir = path.join(process.cwd(), 'deep_logs');
-        this.initializeLogDirectory();
+        // Skip directory initialization on Vercel (read-only filesystem)
+        if (!process.env.VERCEL) {
+            this.initializeLogDirectory();
+        }
     }
 
     static getInstance(): DeepLogger {
@@ -218,8 +221,10 @@ class DeepLogger {
                 result
             });
 
-        // Save session to file
-        this.saveSessionToFile(session);
+        // Save session to file (skip on Vercel - read-only filesystem)
+        if (!process.env.VERCEL) {
+            this.saveSessionToFile(session);
+        }
         
         if (this.currentSessionId === sessionId) {
             this.currentSessionId = null;
@@ -488,6 +493,11 @@ class DeepLogger {
      */
     private async flush(): Promise<void> {
         if (this.logBuffer.length === 0) return;
+        // Skip file operations on Vercel (read-only filesystem)
+        if (process.env.VERCEL) {
+            this.logBuffer = [];
+            return;
+        }
 
         const entries = [...this.logBuffer];
         this.logBuffer = [];

@@ -27,6 +27,9 @@ export interface AnalysisLogEntry {
  * Ensure the data directory exists
  */
 async function ensureDataDir(): Promise<void> {
+    // Skip on Vercel (read-only filesystem)
+    if (process.env.VERCEL) return;
+    
     try {
         await fs.mkdir(DATA_DIR, { recursive: true });
     } catch (e) {
